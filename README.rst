@@ -1,5 +1,5 @@
-Vader Developers' Guide
-***********************
+F&S Book
+********
 
 Sphinx assets
 ==============

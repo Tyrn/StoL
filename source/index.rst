@@ -11,6 +11,7 @@ Shooting to Live
    :caption: Contents:
    :glob:
 
+   fount/*
    tmp/*
 
 Indices and tables
