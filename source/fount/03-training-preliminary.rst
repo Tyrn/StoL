@@ -57,4 +57,61 @@ safety-catch on the left-hand side of the pistol. He
 should make it perfectly clear that the pistol, when
 carried on service, should have a charged magazine
 inserted but that *it should never be carried with a
-round in the breech*.
+round in the breech*. He should show that when it
+is desired to fire all that has to be done is to load
+in the manner described in para. 2 (c). He should
+then proceed to demonstrate the extreme speed with
+which it is possible to draw, load and fire by this
+method, which compares more than favourably with
+the alternative of drawing, pulling down the
+safety-catch and firing a round already in the breech. It
+should be shown, too, that the first method (with the
+breech empty) eliminates the fumbling and uncertainty
+inherent in the use of the safety-catch.
+
+With this preface, all is now ready for the course
+to commence.
+
+1. One Hour's "Dry" Practice
+----------------------------
+
+a. On taking the pistol in the hand, we recommend,
+   as an aid to accurate pointing, that the
+   thumb be fully extended and pointing forward
+   in the same plane as the pistol barrel (Fig. 1).
+
+.. figure:: ../_static/CorrectGrip.png
+
+   Fig. 1.---The Correct Grip.
+
+b. Stand square with the target, gripping the
+   pistol now as if it weighed twenty or thirty
+   pounds, pistol arm straight, rigid and across
+   the body (Fig. 2). Bend the hand slightly to
+   the right, to bring the pistol exactly in line
+   with the vertical centre-line of the body
+   (Fig. 3).
+c. Raise the pistol (pistol arm still rigidly straight
+   and pivoting from the soulder), keeping it
+   exactly in line with the vertical centre-line
+   of the body until it covers the aiming mark
+   on the target (Fig. 4). Both eyes are to be
+   kept open and the recruit simply sees the
+   target surrounding his pistol, making no
+   attempt to look at or line up the sights, or
+   to let the master-eye control the aim.
+d. Immediately the aiming mark is covered, pull
+   the trigger and lower the pistol to the position
+   shown in Fig. 3 (the "ready" position).
+
+Notes
+^^^^^
+
+Paragraphs (b) and (c) in conjunction with Fig. 4
+reveal a deliberate attempt to eliminate *conscious*
+control by the master-eye. Instead, the aim is
+controlled by the combination of the square stance
+and the manner of holding the pistol, *i.e.* in the
+centre of the body, with the hand bent over to the
+right, elements which were employed unconsciously
+in the experiment on page 6.
