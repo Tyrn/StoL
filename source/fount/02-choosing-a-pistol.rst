@@ -145,4 +145,109 @@ It is probably the case that, *for the first shot*, the
 cut-down revolver which has been described is
 fractionally quicker, but for subsequent shots the
 rate of fire of the automatic is much higher. A
-great deal of the recoil
+great deal of the recoil is absorbed in the operation
+of the mechanism and the trigger pull is much
+shorter and easier than that of the revolver. We
+refer, of course, to the use of the double-action
+revolver. If the hammer were to be cocked for
+each shot, the rate of fire would be funereal by
+comparison. A skilled shot can do excellent work
+with the automatic even while making it sound like
+a machine gun.
+
+It seems to follow logically that the absorption of
+so much of the recoil, combined with the shorter
+trigger-pull, furnish theoretical proof of our contention
+that the automatic is easier to shoot with.
+Practical proof of our contention is found in the
+training results. Critical observation has demonstrated
+that a beginner can be trained in the use
+of the automatic in a third of the time and with
+the expenditure of less than half the ammunition
+required for the revolver. Furthermore, once trained
+in the use of the automatic, men appear definitely
+to need less subsequent practice to maintain the
+standard of shooting which has been attained in the
+course of training.
+
+We shall endeavour to throw more light on this
+subject in the chapters on training methods, and by
+way of preface to those chapters we must introduce
+and describe one more point in connection with the
+automatic, and this time we shall certainly be accused
+of heresy.
+
+We have an inveterate dislike of the profusion of
+safety devices with which all automatic pistols are
+regularly equipped. We believe them to be the
+cause of more accidents than anything else. There
+are too many instances on record of men being shot
+by accident either because the safety-catch was in
+the firing position when it ought not to have been
+or because it was in the safe position when that
+was the last thing to be desired. It is better, we
+think, to make the pistol permanently "unsafe"
+and then to devise such methods of handling it that
+there will  be no accidents. One of the essentials of
+the instruction courses which follow is that the
+pistols used shall have their side safety-catches
+permanently pinned down in the firing or "unsafe"
+position. How this matter is taken care of is described
+at length in Chapter III. Suffice it to say here
+that our unorthodox methods have been subjected
+to the acid test of many years of particularly
+exacting conditions and have not been found
+wanting.
+
+Having dealt with weapons suited to the detective
+or plain-clothes man and the uniformed services
+respectively, there remains the case of the private
+individual who wishes to carry a gun. In most
+countries it is illegal to do so and we have no wish
+to encourage law-breaking. Nevertheless, there are
+still some countries and circumstances in which it
+may be necessary and advisable for the private
+individual to go armed.
+
+Our recommendation to the private individual who
+can justifiably claim the right to carry a pistol is
+to buy an automatic and carry it in a shoulder
+holster such as is described in a succeeding chapter.
+We are not greatly in favour of small weapons.
+No small weapon can possess the strength and
+reliability of a large one. The material and workmanship
+may be as good but the margins of tolerance
+are too small to provide the absolute reliability
+which is so desirable. We recommend the automatic
+of good size and calibre partly because we are assured
+of its reliability and partly because of its shape.
+It does not "bulge" like the revolver and therefore
+is less noticeable (we are presuming that the private
+individual will carry his pistol concealed). Do not
+forget the obligation which you are under to make
+yourself thoroughly safe and efficient with the
+weapon of your choice.
+
+We are often asked what is the best weapon to
+have in the house for purely protective purposes.
+Most of the people who make this enquiry know
+little of fire-arms and say so quite frankly. It usually
+happens, too, that they have neither the intention
+nor the opportunity to make themselves efficient with
+any kind of one-hand gun. If they are of this type,
+we are convinced that they would be better off with
+a good watch-dog, or even a police-whistle. There
+are, however, many men whose knowledge of firearms
+is limited to the shot-gun, in the use of which
+they are both proficient and reliable. If this type
+of man insists on possessing some kind of weapon
+"to keep in the house" we would recommend him
+to acquire a "sawn-off" shot gun, with external
+hammers of the re-bounding type and barrels of about
+18 inches in length. The ease with which it can be
+manipulated, the accuracy with which it can be
+aimed, either from the shoulder or the hip, and the
+spread of the shot charge combine to make it a
+much safer and more efficient weapon than any kind
+of one-hand gun in the use of which he is not
+proficient.
