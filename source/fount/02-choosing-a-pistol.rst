@@ -12,4 +12,137 @@ not buy a pistol, or if you own one already, surrender
 it to the police. That will help to lighten the burden
 of their cares.
 
-We shall assume, however, that
+We shall assume, however, that our readers are
+sufficiently interested to recognise that the possession
+of a pistol and efficiency in its use should go hand-in-hand.
+For them, the starting point in choosing a
+pistol should be to buy the best they can afford for
+the particular purpose in view. If a pistol is needed
+at all it may be needed very badly indeed, and poor
+quality contributes nothing to either safety or peace
+of mind.
+
+The type of pistol to be chosen depends on
+the use to which it is to be put. A pistol that
+meets the needs of the detective or plain-clothes
+man, for instance, is not necessarily suitable for
+individual self-defence or for the uniformed service
+man.
+
+Let us consider first the case of the detective or
+plain-clothes man. Here the weapon must be carried
+concealed and the wearer must be prepared for the
+quickest of quick draws and an instantaneous first
+shot, most probably at very close quarters. For that
+purpose, our own choice would be a cut-down revolver
+of heavy calibre. Fig. 22 (b) will show you
+better than any description what we mean.
+
+The weapon shown in the illustration started life
+as a .45 Colt New Service double-action revolver
+with a 5-inch barrel. The hammer spur has been
+cut off, the barrel length reduced to 2 inches, the
+front part of the trigger-guard has been removed,
+and grooves have been cut on the left side of the
+butt for the middle, third and little fingers.
+
+Now for the reasons for this drastic treatment.
+The big New Service revolver was chosen, primarily,
+because the butt is of adequate size for the average
+man's hand to grasp in a hurry without any fumbling.
+Secondly, it is one of the most powerful weapons
+possible to obtain.
+
+The removal of the hammer spur and the
+smoothing over of what remains prevent the weapon
+from catching in the clothing when drawn in a
+violent hurry. As the hammer cannot be cocked
+by the thumb, the weapon has to be fired by a
+continuous pull on the trigger. With a sufficiency
+of practice, very fast shooting is rendered possible
+by this method.
+
+The shortening of the barrel is for speed in drawing.
+Obviously, it takes less time for 2 inches of barrel
+to emerge from the holster than 5 inches. Contrary
+to what might be expected, there is no loss of
+accuracy, at any rate at the ranges at which the
+weapon is customarily used.
+
+The front part of the trigger-guard is removed in
+order to eliminate yet another possible cause of
+fumbling when speed is the order of the day. The
+index-finger, no matter of what length of thickness,
+wraps itself in the proper position round the trigger
+without any impediment whatever. The grooves on
+the butt are there to ensure that the fingers grip
+the weapon in exactly the same way every time.
+
+Lest it be thought that we are the originators
+of this fearsome but eminently practical weapon,
+let us say at once that we are not. We owe the
+idea to a book by Mr J. H. Fitzgerald of the Colt's
+Patent Fire Arms Manufacturing Company, and we
+gladly acknowledge our indebtedness.
+
+For a weapon to be carried openly by uniformed
+police and officers and men of the fighting services,
+we unhesitatingly avow or preference for the
+automatic pistol. We shall treat it as a matter
+of personal preference and shall not abuse the
+supporters of the revolver for having other views.
+They are quite welcome to those views and we
+trust we may be allowed to retain ours. We shall
+do so, in any case, until we have good reason to
+alter them.
+
+We are familiar with the criticisms so often made
+of the automatic pistol. It is said that it is unreliable,
+will often jamb without provocation and
+certainly will do so if mud, sand or water gets into
+the mechanism, and above all, it is not safe.
+
+There have been and possibly still are automatics
+like that, but one is not obliged to use them.
+
+We think it is only in Great Britain that the
+reliability of the automatic is still questioned. In
+the United States, while many people adhere to
+their preference for the revolver, we have never
+heard any doubts expressed in the matter, and it is
+worthy of note that both there and in Germany the
+automatic has long been in use as a standard weapon
+of the fighting services.
+
+There are in existence types of automatic pistols
+which are perfectly reliable. We base this statement
+on our actual experience of them over a period of
+twenty years. That experience includes an intimate
+knowledge of a service consisting of over six thousand
+men, most of them armed with automatics and having
+a surprising record of shooting affrays to their credit.
+If their weapons had been in any way unsatisfactory,
+twenty years should have sufficed to reveal the
+defects. But in all that time nothing has occurred,
+either in the training of the service referred to or
+in the affrays in which the service has taken part,
+to cast the slightest doubt on the reliability of the
+automatic, nor has there been a single instance of
+injury or death due to accident.
+
+Apart from the question of reliability, we have
+found that in comparison with the revolver, the
+automatic offers the following advantages:---
+
+- It is easier and quicker to recharge.
+- It can be fired at far greater speed.
+- It is easier to shoot with.
+
+The first point will be readily conceded but the
+other two may meet with opposition.
+
+It is probably the case that, *for the first shot*, the
+cut-down revolver which has been described is
+fractionally quicker, but for subsequent shots the
+rate of fire of the automatic is much higher. A
+great deal of the recoil
