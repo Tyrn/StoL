@@ -308,9 +308,89 @@ Notes
 ^^^^^
 
 This practice should not be hurried. The first
-four shots,
+four shots, as each is fired, should be pointed out
+on the target, the recruit standing at the "ready"
+while the instructor explains the causes of any
+which are badly placed. The causes are normally
+simple enough---hand insufficiently bent to the right,
+"dipping" the hand downwards, or not gripping
+firmly enough to prevent the trigger from being
+"yanked off." If the two rapid-fire shots are
+widely apart it is conclusive evidence of a loose
+grip.
 
-.. figure:: ../_static/.png
+The instructor should not be content unless his
+explanations produce an immediate improvement in
+the recruit's shooting. These recruits who are not
+firing should be "fallen in" eight to ten yards in rear
+of the firing point. From there they can watch the
+shooting and its results. They should be permitted
+to talk but not loudly enough to prevent the man
+who is shooting from hearing what the instructor is
+saying.
 
-   Fig. .---.
+4. Second Firing Practice
+-------------------------
 
+a. Same target and distance
+b. Hand the recruit a magazine containing one
+   "dummy" and five live rounds. The
+   "dummy" is to be included without the
+   recruit's knowledge and its position in the
+   magazine should be different for each man
+   who takes his turn at the firing point. Men
+   waiting to fire should not be allowed to
+   watch the practice described below.
+c. The recruit is to fire as previously but this
+   time in three "bursts" of two shots each.
+   Errors of aiming should be corrected between
+   "bursts."
+d. When the "dummy" round is arrived at,
+   treat it as a misfire. Have the recruit
+   eject it *immediately* and carry on firing his
+   next burst *without any delay*.
+e. At the conclusion of this practice, explain to
+   the recruit that it is useless, wasteful of
+   time and extremely dangerous to look down
+   the muzzle of his pistol when he has a
+   misfire. Some of them *will* do it. Explain
+   also that a bad jamb can be caused by
+   covering the ejector cut with the left hand
+   when retracting the slide in order to eject
+   a cartridge. This is a fault which is frequently
+   found and should be corrected as soon as
+   possible in the training course. See Fig. 10
+   for how it ought to be done.
+
+5. Third Firing Practice
+------------------------
+
+Repetition of practice given under para. 4 but this
+time at 4 yards. If the recruit's shooting has been
+satisfactory so far, he may be allowed to fire this
+practice in two "bursts" of three rounds each.
+
+Notes
+^^^^^
+
+The instructor will be well advised to give his
+pupils short "rest" periods at fairly frequent
+intervals and to utilise such intervals to impress
+upon them the conditions under which they may be
+called upon to use their pistols eventually. Reference
+to Chapter I (pp. 3--4) will indicate the general
+line to take, the points requiring special emphasis
+being the short range at which most encounters take
+place, the likelihood of unfavourable light and
+terrain, the advisability of firing in "bursts" and
+the paramount importance of speed. If prominence
+is given to points of that nature, recruits will be
+assisted to comprehend more readily the reasons
+underlying the instruction they are receiving. It will
+be plain to them, for instance, that they must not
+look at their sights because they will never have
+time to do so, that they must grip their pistols
+hard because that is what they will do infallibly in
+the stress of actual combat, and that, when obliged
+to shoot, they will have to do so with all the
+aggressiveness of which they are capable.
