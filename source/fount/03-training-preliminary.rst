@@ -92,7 +92,7 @@ b. Stand square with the target, gripping the
    with the vertical centre-line of the body
    (Fig. 3).
 c. Raise the pistol (pistol arm still rigidly straight
-   and pivoting from the soulder), keeping it
+   and pivoting from the shoulder), keeping it
    exactly in line with the vertical centre-line
    of the body until it covers the aiming mark
    on the target (Fig. 4). Both eyes are to be
