@@ -262,7 +262,57 @@ their construction, viz.:---
 From this as a starting point, quantities required on
 all counts can be estimated.
 
-.. figure:: ../_static/.png
+By means of this "revolving credit" system we
+are spared certain anxieties which would occur were
+reserve supplies to be kept in stock over a number
+of years. With our full supply expended in under
+two years, and replenished as necessary, we do not
+have to worry about such things as seasonal cracking
+or other forms of deterioration in the brass,
+deterioration of the smokeless powder charge,
+increased pressures due to that deterioration or,
+more important still, the reliability of the primers.
+We do not waste first-class ammunition on practice
+and training shoots, but use only that which we
+consider might be no longer reliable.
 
-   Fig. .---.
+The reference to the reliability of the primers
+should be explained. We have in mind the modern
+non-fouling primer. It will be unnecessary for us
+to refer to its value in all circumstances, and
+particularly those in which the cleaning of weapons
+after firing has to be deferred longer than it should
+be. Up to date, however, it does not appear to
+last as long in adverse climatic conditions as the
+old rust-producing type. We admit that we are not
+quite sure of this, but while there is any doubt in
+the matter we prefer to take no more risks than
+we need, and this aspect is fully taken care of by
+the "revolving credit."
 
+We think it will be helpful if our system of dealing
+with the ammunition supply is closely linked with
+the armoury records which should be kept in respect
+of both ammunition and weapons.
+
+Practice and training courses are invaluable in
+bringing to light any defective ammunition or pistols,
+which should be immediately withdrawn and sent to
+the armoury for examination.
+
+If the examination reveals ammunition defects
+which are not due to ill-usage but to obvious faults
+in manufacture, the matter should be taken up with
+the makers, full records being kept. As regards the
+pistols, there should be a history sheet for each
+weapon and on it should be noted the attributed
+and actual causes of the defects (sometimes these
+differ widely), the repairs effected, the date returned
+to service and other appropriate data.
+
+It is true that all this involves a certain amount
+of clerical work, but it is more than justified by the
+general efficiency which results and it sinks into
+insignificance when it is remembered what that
+efficiency may mean to men whose lives would
+otherwise be needlessly endangered.
