@@ -172,16 +172,93 @@ hearsay, seem to have been upset. We say "seem"
 advisedly, for in spite of the length and variety of
 our records we do not consider that we have had,
 even yet, sufficient visual proof of the behaviour
-and effects of bullets fired int human targets to
+and effects of bullets fired in human targets to
 enable us to lay down any hard-and-fast rules.
 
 We do not know that a big soft lead bullet will
 not have the knock-down effect generally claimed.
 All we can say is that we have never seen it. We
 do not know for certain, either, that a full-jacketed
-high-velocity
+high-velocity small-calibre bullet will always have
+the effect described in the particular instance which
+we have given.
 
-.. figure:: ../_static/.png
+We incline to the belief that the human factor must
+influence to some extent the behaviour of bullets.
+A pugilist at the top of his form can stand vastly
+more punishment than a man who is "soft" and
+untrained. Capacity to resist shock and pain appears
+to be also a function of the nervous system, and
+marked differences occur in this respect as between
+individuals of different races. Perhaps that partially
+explains why some men are not knocked out by bullets
+when they ought to be. Again, if a bullet caught a
+man off balance, might not that aid in producing the
+appearance of a knock-down blow?
 
-   Fig. .---.
+We have made no mention yet of an aspect of this
+matter which we have observed time after time in
+the course of years. A hit in the abdominal region
+almost invariably causes a man to drop anything he
+may have in his hands and to clutch his stomach
+convulsively. We may add that such a hit almost
+always has fatal results, and that is an excellent
+reason for such equipment as effective bullet-proof
+vests, at least for the use of police.
 
+If the ideal to be attained is a weapon that, with a
+body shot alone, will drop a man in his tracks with
+absolute certainty, then there is something lacking
+in the best of modern revolvers and automatics. It
+could be done, doubtless, with a weapon of greatly
+increased calibre and power, but the added weight
+and size of such a weapon would almost certainly
+render it unsuitable for average requirements. So
+perhaps we shall have to make the best of such
+weapons as are available to us.
+
+Those readers who have had the patience to follow
+us so far will most likely be justifiably irritated by
+our inconclusiveness. We can imagine them fsaying,
+"But there must be one or two kinds of pistol that
+are better than all the others. Why on earth can't
+they tell us what they are?"
+
+If that question is asked, we should reply that,
+for ourselves, we should choose the pistol which,
+while being easy to carry and convenient to use,
+would conform most nearly with he following
+requirements:---
+
+1. The maximum of stopping power.
+2. The maximum volume of fire.
+3. The maximum speed of discharge.
+
+To attain the first requirement we should choose
+a cartridge that represents what we consider a safe
+middle course, *i.e.* with a bullet of reasonably
+large calibre and weight, driven at a very high
+velocity.
+
+As regards the second requirement the reader will
+have gathered from Chapters III and IV on training
+that we have a preference for firing in "bursts" of
+two or more shots. We think that lack of stopping
+power inherent in the cartridge is compensated for
+in some degree by the added shock of two or more
+shots in very rapid succession. Medical evidence
+tends to confirm this belief, which is strengthened
+moreover by the evidences we have seen of the
+terribly destructive effects on human targets of
+submachine-guns of the Thompson type. Obviously,
+this belief of ours implies the necessity for a large
+volume of fire, quite apart from the desirability on
+other grounds of having as many rounds as possible
+at one's disposal without having to reload.
+
+Throughout this book we have don our best to
+emphasise the vital need for extreme rapidity of
+fire. For ourselves we can accomplish this our third
+desideratum, most easily with an automatic. The
+more closely our own pistols resemble machine-guns,
+the better we like it.
