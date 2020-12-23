@@ -20,29 +20,29 @@ msgstr ""
 
 #: ../../source/fount/000-title.rst:2
 msgid "Title"
-msgstr ""
+msgstr "Книга"
 
 #: ../../source/fount/000-title.rst:4
 msgid "**SHOOTING TO LIVE WITH THE ONE-HAND GUN**"
-msgstr ""
+msgstr "СТРЕЛЯЕМ, ЧТОБЫ ВЫЖИТЬ"
 
 #: ../../source/fount/000-title.rst:6
 msgid "*by*"
-msgstr ""
+msgstr "_"
 
 #: ../../source/fount/000-title.rst:8
 msgid ""
 "**Captain William Ewart Fairbairn**, late Assistant Commissioner, "
 "Shanghai Municipal Police"
-msgstr ""
+msgstr "**Капитан Уильям Эварт Фэрберн**, заместитель комиссара Шанхайской муниципальной полиции в отставке"
 
 #: ../../source/fount/000-title.rst:11
 msgid "*and*"
-msgstr ""
+msgstr "_"
 
 #: ../../source/fount/000-title.rst:13
 msgid ""
 "**Captain Eric Anthony Sykes**, late Officer in Charge Snipers Unit, "
 "Shanghai Municipal Police"
-msgstr ""
+msgstr "**Капитан Эрик Энтони Сайкс**, начальник отдела огневой подготовки Шанхайской муниципальной полиции в отставке"
 
