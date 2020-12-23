@@ -35,7 +35,7 @@ concealed and the wearer must be prepared for the
 quickest of quick draws and an instantaneous first
 shot, most probably at very close quarters. For that
 purpose, our own choice would be a cut-down revolver
-of heavy calibre. Fig. 22 (b) will show you
+of heavy calibre. :ref:`Fig. 22 (b) <viii_fig22b>` will show you
 better than any description what we mean.
 
 The weapon shown in the illustration started life

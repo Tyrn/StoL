@@ -139,6 +139,8 @@ information might well consist of
 
    Fig. 22a.---Belt-Holster and Pistol.
 
+.. _viii_fig22b:
+
 .. figure:: ../_static/CutDownRevolverB.png
 
    Fig. 22b.---Cut-down Revolver.

@@ -250,7 +250,7 @@ preceding paragraph, we prefer, however, not to trust
 to reserve supplies kept in stock for a number of
 years but to adopt instead what may be described
 as a "revolving credit." The tables given in the
-Appendix will convey our meaning more clearly, but
+:ref:`Appendix <appendix>` will convey our meaning more clearly, but
 we may state here that two basic conditions influence
 their construction, viz.:---
 
