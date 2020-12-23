@@ -151,8 +151,7 @@ give the order to cease fire. The shooter should
 then come to the "ready," remove the magazine,
 eject the live round from the breech, work the slide
 back and forth several times and finally pull the
-trigger, all as described on pp. 25 and 31 (Figs. 9 and
-10).
+trigger, all as described in Chapter III (:ref:`Figs. 9 and 10 <iii_fig9>`).
 
 In the second instance, immediately the last shot
 has been fired, the shooter comes to the "ready,"

@@ -202,6 +202,8 @@ c. *To load the pistol* turn it over, as in Fig. 6,
 
    Fig. 8.---Third Position of Loading.
 
+.. _iii_fig9:
+
 .. figure:: ../_static/RemovingMagazine.png
 
    Fig. 9.---Removing Magazine.
