@@ -26,7 +26,7 @@ centre-line of the body and hand bent to the right
 as before, the recruit fires a burst of two or three
 shots, but *quickly*, at a distance of 3 yards. If he
 succeeds in making nothing worse than a 6-inch
-group, he shoul repeat the practice at 4 yards.
+group, he should repeat the practice at 4 yards.
 
 The instructor should make a special point of
 explaining all the elements of this practice. The bent
