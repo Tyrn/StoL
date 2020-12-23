@@ -64,4 +64,4 @@ html_static_path = ["_static"]
 # Gettext directory
 #
 locale_dirs = ['locale/']
-gettext_compact = True
+gettext_compact = False

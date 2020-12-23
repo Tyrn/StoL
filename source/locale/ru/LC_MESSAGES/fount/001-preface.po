@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Creative Commons
+# This file is distributed under the same license as the Shooting to Live
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Shooting to Live \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-23 18:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../source/fount/001-preface.rst:2
+msgid "Preface"
+msgstr ""
+
+#: ../../source/fount/001-preface.rst:4
+msgid ""
+"It may be said that there is already a sufficiency of books on the one-"
+"hand gun and its uses. Some justification for an addition to the list "
+"might be considered to exist if the subject could be presented from a "
+"different angle, and that is what is now attempted."
+msgstr ""
+
+#: ../../source/fount/001-preface.rst:11
+msgid ""
+"*Shooting to Live* describes methods developed and practiced during an "
+"eventful quarter of a century and adopted, in spite of their unorthodoxy,"
+" by one police organisation after another in the Far East and elsewhere. "
+"It is the authors' hope that their relation of these methods may "
+"contribute to the efficiency, and therefore safety, of those whose lot it"
+" is to use the one-hand gun in the course of duty."
+msgstr ""
+
+#: ../../source/fount/001-preface.rst:20
+msgid "W.E.F., E.A.S., *1942*"
+msgstr ""
+

@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Creative Commons
+# This file is distributed under the same license as the Shooting to Live
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Shooting to Live \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-23 18:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../source/fount/002-note.rst:2
+msgid "A Note from the Publisher"
+msgstr ""
+
+#: ../../source/fount/002-note.rst:4
+msgid ""
+"The toughest city in the world was Shanghai. The time was the 1930s. The "
+"streets were ruled by gangs. Violent gang wars, murder, rape, and robbery"
+" were The order of the day. The night belonged to roaming gangs of "
+"toughs. In charge of the Shanghai Municipal Police, Capt. W. E. Fairbairn"
+" and his partner, Capt. Eric Anthony Sykes, were determined to reclaim "
+"the streets for the citizenry."
+msgstr ""
+
+#: ../../source/fount/002-note.rst:13
+msgid ""
+"*Shooting to Live* is the product of Fairbairn's and Syke's *practical* "
+"experience with the handgun. Hundreds of incidents provided the basis for"
+" the first true book on life-or-death shootouts with the pistol. "
+"*Shooting to Live* teaches, in clear, concise terms, all concepts, "
+"considerations, and applications of *combat pistolcraft*. The methods "
+"taught here provided the basis for all the later masters---Applegate, "
+"Weaver, Cooper, Taylor, Chapman, Farnham, Hackathorn, et al. This all-"
+"time classic book on combat pistol shooting is a must for the serious "
+"shooter."
+msgstr ""
+

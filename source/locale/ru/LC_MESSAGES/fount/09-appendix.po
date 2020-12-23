@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Creative Commons
+# This file is distributed under the same license as the Shooting to Live
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Shooting to Live \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-23 18:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../source/fount/09-appendix.rst:4
+msgid "Appendix"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:6
+msgid "\"Revolving Credit\" System"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:8
+msgid ""
+"The unit quantities given in Table I are approximately those which have "
+"been found to answer our own purposes, but can be varied, of course, to "
+"suit different needs of the requirements of larger or smaller numbers of "
+"men. For greater simplicity, Table I is assumed to provide for a force of"
+" 1000 men."
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:15
+msgid "Table I. Requirements over Twelve Months"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "Rounds"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "To be carried in daily use by each man, 12 rounds"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "x1000"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "12,000"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "Practice and training, 36 rounds per man"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "36,000"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "In reserve, 30 rounds per man"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "30,000"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "78,000"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:24
+msgid ""
+"An initial purchase is made of the total quantity indicated by Table I as"
+" required over a period of twelve months and, for added clarity, we shall"
+" assume that it is on hand at the end of December."
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:29
+msgid "Table II. Disposal of Initial Purchase"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "*1st January*---"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "Place to reserve"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "Issue for daily use"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "Issue for training and practice"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "*1st May*---"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst
+msgid "Withdraw 12,000 issued 1st January"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst
+msgid "(for daily issue) and use for"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst
+msgid "training and practice. Replace for"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst
+msgid "daily use, by fresh issue of"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "*1st September*---"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst
+msgid "Withdraw 12,000 issued 1st May"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst
+msgid "(for daily use) and use for"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:49
+msgid ""
+"In twelve months, therefore, 36,000 rounds have been actually expended in"
+" training and practice."
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:52
+msgid ""
+"Meanwhile, a second but smaller purchase has been made and is on hand at "
+"the end of December, twelve months after the first purchase arrived, so "
+"that the stock of ammunition is as shown in the next table."
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:57
+msgid "Table III. Stock at end of First Twelve Months"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "In reserve"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "In daily use (issued 1st September)"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:1
+msgid "Amount of second purchase"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:66
+msgid ""
+"We commence the second year with a stock of the same quantity as that "
+"with which we began originally and so  are able to repeat exactly the "
+"processes of the first year."
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:71
+msgid ""
+"There is one difference to be noted, however. The second purchase is not "
+"drawn on until the first is exhausted. Thus on 1st January of the second "
+"year, 12,000 rounds, issued for daily use at the beginning of the "
+"preceding September, are withdrawn and issued for training and practice, "
+"their place being taken by 12,000 from reserve. The May issue, 12,000, "
+"and half the September issue, 6000, completely exhausted the 30,000 "
+"originally placed to reserve."
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:82
+msgid "Our two basic conditions are therefore fulfilled, *i.e.*:"
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:84
+msgid "No ammunition in daily use longer than four months."
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:86
+msgid "No ammunition in stock longer than two years."
+msgstr ""
+
+#: ../../source/fount/09-appendix.rst:88
+msgid ""
+"As long as the programme is adhered to, the processes outlined are merely"
+" a matter of repetition year after year."
+msgstr ""
+
