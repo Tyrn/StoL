@@ -9,6 +9,7 @@ poetry.lock
 build/
 # Sphinx/sphinx-reload
 _build/
+*.mo
 # Misc
 __*.rst
 
