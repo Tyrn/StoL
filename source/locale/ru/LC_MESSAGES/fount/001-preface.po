@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/fount/001-preface.rst:2
 msgid "Preface"
-msgstr ""
+msgstr "Предисловие"
 
 #: ../../source/fount/001-preface.rst:4
 msgid ""
@@ -28,7 +28,7 @@ msgid ""
 "hand gun and its uses. Some justification for an addition to the list "
 "might be considered to exist if the subject could be presented from a "
 "different angle, and that is what is now attempted."
-msgstr ""
+msgstr "К сегодняшнему дню написано достаточно книг, посвященных пистолетам и методам их применения. Появление еще одной такой книги можно оправдать желанием изложить материал под новым углом зрения, что авторы и попытались сделать."
 
 #: ../../source/fount/001-preface.rst:11
 msgid ""
@@ -38,9 +38,9 @@ msgid ""
 "It is the authors' hope that their relation of these methods may "
 "contribute to the efficiency, and therefore safety, of those whose lot it"
 " is to use the one-hand gun in the course of duty."
-msgstr ""
+msgstr "Методы, излагаемые в настоящей книге, были разработаны и испытаны на практике в течение бурной четверти века, и, несмотря на их неортодоксальность, используются многими департаментами полиции, как на Дальнем востоке, так и в других регионах. Авторы надеются, что изложенные ими методы будут способствовать повышению профессионального уровня, а следовательно, и уровня безопасности тех, кому по долгу службы приходится применять оружие."
 
 #: ../../source/fount/001-preface.rst:20
 msgid "W.E.F., E.A.S., *1942*"
-msgstr ""
+msgstr "У.Э.Ф., Э.Э.С., *1942*"
 

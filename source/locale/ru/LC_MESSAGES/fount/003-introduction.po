@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/fount/003-introduction.rst:2
 msgid "Introduction"
-msgstr ""
+msgstr "Введение"
 
 #: ../../source/fount/003-introduction.rst:4
 msgid ""
@@ -29,7 +29,7 @@ msgid ""
 "army and strengthening the home guard against the expected German, cross "
 "channel invasion. At the same time, training in commando and para "
 "military type operations was initiated."
-msgstr ""
+msgstr "После успешного отступления британского экспедиционного корпуса из Дюнкерка в Англии начался период реорганизации вооруженных сил, в предвидении возможного германского вторжения через Ла-Манш. Тогда же началась подготовка подразделений специального назначения."
 
 #: ../../source/fount/003-introduction.rst:12
 msgid ""
@@ -40,7 +40,7 @@ msgid ""
 "enemy occupied territory. Schools were operated under tight security "
 "conditions all over the English countryside and in Northern Scotland "
 "where country estates of the nobility were used as training centers."
-msgstr ""
+msgstr "К этой работе были привлечены специалисты по ближнему бою со всего Британского содружества, а также представители союзников. К моменту налета на Пирл Харбор наиболее опытные и известные из этих людей участвовали также в подготовке специальных разведывательных отрядов, предназначенных для действий на территории, оккупированной противником. Школы по подготовке персонала для таких отрядов работали в обстановке строгой секретности. Учебные центры были разбросаны по сельской местности Англии и северной Шотландии, где под них были заняты поместья аристократических семей."
 
 #: ../../source/fount/003-introduction.rst:23
 msgid ""
@@ -53,7 +53,7 @@ msgid ""
 "lieutenant, was assigned to him as an assistant for a one year period "
 "that was followed by a special duty assignment of the same nature with E."
 " A. \"Bill\" Sykes in Scotland near the British Commando training center."
-msgstr ""
+msgstr "В 1942 году Управление Стратегических Служб (УСС) под руководством полковника Уильяма «Уайлд Билла» Донована начало подготовку аналогичных сил специального назначения, в предвидении того момента, когда военная мощь Соединенных Штатов в составе союзных сил будет направлена на освобождение Европы от оккупации. Капитан У. Э. «Дэн» Фэрберн был направлен в УСС в качестве инструктора. Автор этих строк, энтузиаст и новоиспеченный лейтенант, был назначен помощником капитана Фэрберна сроком на один год, за чем немедленно последовало такое же назначение — помощником Э. Э. «Билла» Сайкса, работавшего в Шотландии в учебном центре британских командос."
 
 #: ../../source/fount/003-introduction.rst:36
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "weapons. Their training techniques and methods were proven first in the "
 "back alleys of Shanghai and later with the Commando and the Special "
 "Intelligence branches of both the British and U. S. Services."
-msgstr ""
+msgstr "Согласно официальным записям Шанхайской полиции, Фэрберн и Сайкс персонально участвовали в более, чем двухстах столкновениях с местными криминальными элементами. Эти украшенные шрамами ветераны — знатоки всех видов ближнего боя, как с оружием, так и без. Их методы подготовки были испытаны сначала в темных переулках Шанхая, затем в операциях командос и специальных разведывательных подразделений как Британии, так и Соединенных Штатов."
 
 #: ../../source/fount/003-introduction.rst:46
 msgid ""
@@ -74,9 +74,9 @@ msgid ""
 "writer's own text, *Kill or Get Killed*. Many present day U. S. military "
 "and law enforcement combat handgun shooting techniques can be traced back"
 " to this book."
-msgstr ""
+msgstr "Книга «Стреляем, чтобы выжить» является первым письменным руководством по боевой стрельбе из пистолета. Описанные в этой книге принципы автор этих строк использовал в различных изданиях своей собственной книги «Убивай, или погибнешь сам», приспособив их к американским условиям. Многие положения огневой подготовки в армии и правоохранительных органах Соединенных Штатов сегодня, восходят на самом деле к этой книге."
 
 #: ../../source/fount/003-introduction.rst:54
 msgid "Colonel Rex Applegate"
-msgstr ""
+msgstr "Полковник Рекс Эплгейт"
 

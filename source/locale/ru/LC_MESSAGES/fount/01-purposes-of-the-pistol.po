@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:6
 msgid "I. Purposes of the Pistol"
-msgstr ""
+msgstr "I. Назначение пистолета"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:8
 msgid ""
@@ -33,7 +33,7 @@ msgid ""
 "quite so widely accepted, it is, we think, well on the way to being so, "
 "and we shall not be anticipating matters unduly if we continue to use it "
 "in the sense indicated."
-msgstr ""
+msgstr "Пистолет - это оружие, которое приспособлено для удержания одной рукой. Здесь мы будем рассматривать только два типа такого оружия: (1) пистолет с вращающимся цилиндром, в котором содержатся патроны (револьвер), и (2) самозарядный магазинный пистолет. Здесь и далее мы будем называть оружие первого типа револьвером, а второго типа — (автоматическим) пистолетом. Термин «револьвер» давно вошел в словари всех языков; термин «автоматический пистолет» не столь общепринят, однако авторы полагают, что постепенное его распространение дает им право использовать этот термин в своей работе."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:21
 msgid ""
@@ -44,7 +44,7 @@ msgid ""
 " shooting (i.e. *deliberate* shooting with a view to getting all shots in"
 " the ten-ring on a stationary target). Its second use is as a weapon of "
 "combat."
-msgstr ""
+msgstr "Если не говорить о дуэлях, которые сегодня запрещены в большинстве стран, и становятся, похоже, не столь популярны даже там, где разрешены, официально или неофициально, существуют лишь две совершенно обособленные области применения пистолета. В первом случае это спортивная стрельба, когда методически производится выстрел за выстрелом с целью попадания в центр неподвижной мишени. Во втором случае пистолет используется как оружие в бою."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:31
 msgid ""
@@ -57,7 +57,7 @@ msgid ""
 "camper's equipment would not only be a source of pleasure but might be "
 "useful as well. Target shooting has its place and we have no quarrel with"
 " it."
-msgstr ""
+msgstr "Эта книга посвящена исключительно боевому применению пистолета, однако ни в коем случае не следует думать, что авторы смотрят на стрелковый спорт свысока. Напротив, мы восхищаемся умением, которого он требует, и которым авторы не обладают. Мы сознаем, каких упорных тренировок стоит выработка нужных навыков, и полагаем, что при известных обстоятельствах, спортивный пистолет в экипировке, например, туриста, может быть источником не только удовольствия, но и практической пользы. Спортивная стрельба занимает свое достойное место, и мы с этим спорить не собираемся."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:44
 msgid ""
@@ -68,7 +68,7 @@ msgid ""
 "chalk from cheese, and what has been learned from target shooting is best"
 " unlearned if proficiency is desired in the use of the pistol under "
 "actual fighting conditions."
-msgstr ""
+msgstr "К сожалению, однако, мы беремся утверждать, что, если не говорить о воспитании навыков безопасного обращения с оружием, спортивная стрельба совершенно бесполезна, когда речь заходит о боевом применении пистолета. Эти две вещи отличаются друг от друга, как мел от сыра, и о спортивных навыках лучше забыть, когда речь идет об эффективном использовании пистолета в реальных боевых условиях."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:54
 msgid ""
@@ -81,7 +81,7 @@ msgid ""
 " in those methods of pistol shooting which have been thought best "
 "calculated to bring results in the many shooting affrays in which they "
 "are called upon to take part."
-msgstr ""
+msgstr "Наши взгляды являются результатом многолетнего опыта работы в полиции дальневосточного города, в котором, вследствие необычных, а в некоторых отношениях, уникальных, местных особенностей, вооруженная преступность процветает, по нашему мнению, как нигде в мире. Этот опыт включает не только вооруженные столкновения, но и ответственность, связанную с качеством огневой подготовки большого количества полицейских, которым придется применять пистолет в перестрелках."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:67
 msgid ""
@@ -90,7 +90,7 @@ msgid ""
 "preceding paragraph we may be conceded at least a title to those views, "
 "and we shall hope to fortify the title subsequently by statistics of "
 "actual results of shooting affrays over a number of years."
-msgstr ""
+msgstr "Многие считают наши взгляды отъявленной ересью, если не хуже. В свете сказанного выше, однако, мы полагаем, что мы вправе, по крайней мере, эти взгляды иметь, и надеемся в дальнейшем подтвердить их статистикой реальных перестрелок, накопленной на протяжении ряда лет."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:75
 msgid ""
@@ -102,7 +102,7 @@ msgid ""
 "other requirements in circumstances which preclude the use of a better "
 "weapon that the pistol---that is to say, when it is impracticable to use "
 "a shot-gun, rifle of sub-machine gun."
-msgstr ""
+msgstr "Для начала рассмотрим, насколько возможно тщательно, те условия, которых можно ожидать при боевом применении пистолета. В силу личного опыта мы, возможно, склонны оценивать эти условия с точки зрения полицейского; однако большая их часть, мы полагаем, останется в силе и для военной практики, во всех тех случаях, когда применение более мощного оружия - дробовика, винтовки или автомата — невозможно."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:87
 msgid ""
@@ -126,7 +126,7 @@ msgid ""
 "standing behind or alongside a pistol that is being fired. Finally, you "
 "may find that you have to shoot from some awkward position, not "
 "necessarily even while on your feet."
-msgstr ""
+msgstr "Большая часть перестрелок с применением пистолета происходит на дистанции не более четырех ярдов. Сплошь и рядом эта дистанция бывает гораздо меньше. Подозрительное движение руки противника часто бывает единственным предупреждением, к тому же тот, скорее всего, будет находиться в движении. Вполне возможно, что вы и сами будете его бегом догонять. Если вы будете считать, что стрельба вполне возможна, вы будете находиться в состоянии крайнего возбуждения, и ваша хватка (манера удержания пистолета) будет почти судорожной. Если придется стрелять, вы инстинктивно будете стремиться делать это как можно быстрее, вероятно, не распрямляя руки, а возможно, и с бедра. Все это может происходить при плохом освещении, или при полном его отсутствии, то есть именно при обстоятельствах, когда полицейский скорее всего может ожидать неприятностей, поскольку темнота благоприятствует преступнику. Может случиться, что пуля просвистит над ухом, и вы испытаете мгновенное оцепенение, вызванное шоком от вспышки и звука выстрела, произведенного вашим противником на предельно короткой дистанции — мы можем вас уверить, что это совсем не те ощущения, какие бывают, когда стоишь сзади или сбоку стрелка. Наконец, может так случиться, что стрелять придется из необычного и неудобного положения, возможно, даже, не стоя на ногах."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:116
 msgid ""
@@ -134,27 +134,27 @@ msgid ""
 " have a set of circumstances which in every respect are absolutely "
 "different from those encountered in target shooting. Do they not call for"
 " absolutely different methods of training?"
-msgstr ""
+msgstr "Мы ничего не преувеличиваем. Мы здесь имеем набор обстоятельств, которые во всех отношениях абсолютно отличаются от того, что имеет место при спортивной стрельбе по бумажной мишени. Не требуются ли здесь совершенно различные подходы к тренировочному процессу?"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:123
 msgid ""
 "To answer this question, we must consider the essential points which "
 "emerge from our analysis. They appear in the following order:---"
-msgstr ""
+msgstr "Чтобы ответить на этот вопрос, проанализируем сказанное выше, выделив основные положения. Положений будет всего три, в следующем порядке:"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:127
 msgid "Extreme speed, both in drawing and firing."
-msgstr ""
+msgstr "Предельная быстрота, как при извлечении оружия, так и при стрельбе."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:128
 msgid "Instinctive, as opposed to deliberate aim."
-msgstr ""
+msgstr "Инстинктивное прицеливание, в противоположность методическому."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:129
 msgid ""
 "Practice under circumstances which approximate as nearly as possible to "
 "actual fighting conditions."
-msgstr ""
+msgstr "Тренировка в условиях, максимально приближенных к боевым."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:132
 msgid ""
@@ -164,7 +164,7 @@ msgid ""
 "than a third of a second to fire your first shot, you will not be the one"
 " to tell the newspapers about it. It is literally a matter of the quick "
 "and the dead. Take your choice."
-msgstr ""
+msgstr "Комментируя первое положение, скажем просто, что скорость жизненно важна, и переоценить ее значение невозможно. В обычной перестрелке все решают доли секунды. Если на первый выстрел у вас уйдет заметно больше трети секунды, рассказывать эту историю репортерам будете не вы. Решайте сами."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:141
 msgid ""
@@ -180,11 +180,11 @@ msgid ""
 "might easily happen. Would it not be wiser, therefore, to face facts "
 "squarely and set to work to find out how best to develop instinctive "
 "aiming to the point of getting results under combat conditions?"
-msgstr ""
+msgstr "Положение об инстинктивном прицеливании естественным образом следует из первого, которому мы придаем столь большое значение. Для методического прицеливания просто нет времени. Если же методическое прицеливание вошло в привычку, тем хуже для вас — если вы стреляете, чтобы выжить. В частности, нет времени ни на то, чтобы принять правильную изготовку, ни на то, чтобы выровнять мушку, и любые попытки проделать то и другое отдают вас во власть более быстрого противника. К тому же от прицельных приспособлений мало толку при плохом освещении, и совсем никакого в темноте, как это запросто и бывает. Не разумнее ли было бы взглянуть фактам в глаза и попытаться выработать систему, позволяющую довести технику инстинктивного прицеливания до уровня, позволяющего получать результаты в боевых условиях?"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:158
 msgid "It *can* be done and it is not so very difficult."
-msgstr ""
+msgstr "Это возможно, и даже не чересчур сложно."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:160
 msgid ""
@@ -193,11 +193,11 @@ msgid ""
 "easy, moreover, to do so without raising the hand so high as the level of"
 " the eyes. That he can do so may be coordination of eye and hand or just "
 "plain instinct, call it what you will."
-msgstr ""
+msgstr "Всем известно, что направить палец на объект, на который смотришь, очень просто. Более того, это так же просто сделать, не поднимая руки на уровень глаз. Это удается благодаря визуально-моторной координации, или простому инстинкту, называйте, как хотите."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:171
 msgid "Instinctive aiming experiment"
-msgstr ""
+msgstr "Инстинктивное прицеливание"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:173
 msgid ""
@@ -214,7 +214,7 @@ msgid ""
 "vertical centre-line of your body and that, under the directing impulse "
 "of the master-eye, your hand will be bent from the wrist towards the "
 "right."
-msgstr ""
+msgstr "Проведите маленький эксперимент, сидя за столом. Представьте, что в правой руке у вас пистолет. Вы сидите прямо, оба глаза открыты. Выпрямите руку и оторвите ее от крышки стола, не поднимая, однако, до уровня глаз. При этом направьте указательный палец в какую-нибудь точку на стене прямо перед собой. Рассмотрим внимательно, что же у нас получилось. Указательный палец, как и предполагалось, направлен в точку на стене прямо напротив вас, ладонь расположена вертикально, как если бы в руке и в самом деле был пистолет. Также обнаружится, что рука смещена влево, так что кисть находится примерно в плоскости симметрии вашего тела, и (под управлением вашего ведущего глаза) отвернута в запястье вправо."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:191
 msgid ""
@@ -225,7 +225,7 @@ msgid ""
 " at very short ranges under the difficult circumstances which have been "
 "outlined already. Nail-driving marksmanship will not cope with such "
 "conditions."
-msgstr ""
+msgstr "Эти наблюдения и послужили основой системы, которая подробно рассматривается в последующих главах. Мы не утверждаем, что система обеспечивает снайперскую точность стрельбы, она разрабатывалась не для этого. Желаемый результат — возможность предельно быстро поразить такую цель, как фигура человека на короткой дистанции и в сложных условиях, описанных выше. Приемы спортивной стрельбы здесь не работают."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:201
 msgid ""
@@ -235,7 +235,7 @@ msgid ""
 "competitions, with the accompanying medals, badges, etc. are introduced, "
 "men will try to shoot deliberately, whether consciously or not and we "
 "find our object is being defeated."
-msgstr ""
+msgstr "Предлагаемая система подготовки не допускает никаких препятствий к развитию предельной скорости стрельбы. По этой причине мы решительно против проведения соревнований и награждения за результаты. Как только появляются медали, значки и тому подобное, люди начинают стрелять методически, сознательно или бессознательно. Таким образом, наша фундаментальная цель не достигается."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:210
 msgid ""
@@ -244,7 +244,7 @@ msgid ""
 " essential, and any tendency to deliberate shooting should be discouraged"
 " by such means as the exposure of the targets for very brief periods "
 "only."
-msgstr ""
+msgstr "Время от времени необходимо стрелять на длинной дистанции, что требует других методов; но даже тогда, быстрота является самым важным фактором. С тенденцией к методической стрельбе здесь приходится бороться, используя мишени, появляющиеся лишь на короткое время."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:217
 msgid ""
@@ -257,7 +257,7 @@ msgid ""
 "the training system given in this book may fairly be said to have "
 "achieved its object, but perhaps it is time now for the promised "
 "statistics to play their part in the discussion."
-msgstr ""
+msgstr "Описанная выше изготовка, когда стрелок всем корпусом развернут к мишени, пистолет находится вблизи плоскости симметрии тела, а кисть руки слегка отвернута вправо, доказала свою эффективность на практике. Она позволяет достигнуть требуемой точности стрельбы в условиях жесткого дефицита времени. Авторы сомневаются, что какие-либо другие методы позволят достигнуть желаемой цели, хотя и сейчас они готовы к восприятию новых идей. Сегодня можно сказать, что предлагаемая система подготовки соответствует поставленным задачам; приведем статистику, о которой мы говорили выше."
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:230
 msgid ""
@@ -267,19 +267,19 @@ msgid ""
 "less than 666 armed encounters with criminals. The following table, "
 "referring only to encounters in which *pistols* were used by the police, "
 "gives the results:---"
-msgstr ""
+msgstr "Записи департамента полиции дальневосточного города, который мы уже упоминали, свидетельствуют, что личный состав, подготовленный по системе, описываемой в этой книге, в течение двенадцати с половиной лет участвовал не менее, чем в 666 перестрелках с преступниками. Следующая таблица относится только к столкновениям, в которых полиция использовала пистолеты:"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:1
 msgid "Police"
-msgstr ""
+msgstr "Полиция"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:1
 msgid "Criminals"
-msgstr ""
+msgstr "Преступники"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:1
 msgid "Killed"
-msgstr ""
+msgstr "Убито"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:1
 msgid "42"
@@ -291,7 +291,7 @@ msgstr ""
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:1
 msgid "Wounded"
-msgstr ""
+msgstr "Ранено"
 
 #: ../../source/fount/01-purposes-of-the-pistol.rst:1
 msgid "100"
