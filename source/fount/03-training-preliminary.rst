@@ -114,7 +114,7 @@ controlled by the combination of the square stance
 and the manner of holding the pistol, *i.e.* in the
 centre of the body, with the hand bent over to the
 right, elements which were employed unconsciously
-in the experiment on page 6. The mastery of this
+in the :ref:`experiment <i_experiment>` of Chapter I. The mastery of this
 combination is all that is required for effective aiming
 at short range, a point which will emerge more clearly,
 

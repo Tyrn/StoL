@@ -1,3 +1,5 @@
+.. _i_chapter:
+
 .. image:: ../_static/Vignette1.png
 
 I. Purposes of the Pistol
@@ -162,6 +164,11 @@ to do so without raising the hand so high as the
 level of the eyes. That he can do so may be
 coordination of eye and hand or just plain instinct,
 call it what you will.
+
+.. _i_experiment:
+
+Instinctive aiming experiment
+-----------------------------
 
 Please try this little experiment while sitting at
 your desk. Imagine that you are holding a pistol in
