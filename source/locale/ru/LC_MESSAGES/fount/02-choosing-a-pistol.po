@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../../source/fount/02-choosing-a-pistol.rst:2
 msgid "II. Choosing a Pistol"
-msgstr ""
+msgstr "II. Выбор пистолета"
 
 #: ../../source/fount/02-choosing-a-pistol.rst:4
 msgid "We open this chapter with a warning."
-msgstr ""
+msgstr "Начнем с предупреждения."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:6
 msgid ""
@@ -34,7 +34,7 @@ msgid ""
 "are not prepared to do so, do not buy a pistol, or if you own one "
 "already, surrender it to the police. That will help to lighten the burden"
 " of their cares."
-msgstr ""
+msgstr "Немного существует предметов, столь же бесполезных и опасных, как пистолет, если не уметь им пользоваться. Нужные знания можно приобрести, только пройдя курс обучения под руководством компетентного инструктора. Если вы не проходили такого курса, и не собираетесь проходить, не покупайте пистолет; если же пистолет у вас уже есть, сдайте его в полицию. Так вы сможете облегчить груз забот, лежащих на плечах ее сотрудников."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:15
 msgid ""
@@ -44,7 +44,7 @@ msgid ""
 " should be to buy the best they can afford for the particular purpose in "
 "view. If a pistol is needed at all it may be needed very badly indeed, "
 "and poor quality contributes nothing to either safety or peace of mind."
-msgstr ""
+msgstr "Впрочем, далее мы будем считать, что наши читатели признают невозможность отделить владение пистолетом от умения его правильно использовать. Начать же следует с приобретения самого лучшего пистолета, какой вы можете себе позволить, имея в виду ваши конкретные цели. Если пистолет вам вообще необходим, скорее всего, он необходим очень остро, и низкое качество не прибавит вам ни безопасности, ни присутствия духа."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:25
 msgid ""
@@ -52,7 +52,7 @@ msgid ""
 "put. A pistol that meets the needs of the detective or plain-clothes man,"
 " for instance, is not necessarily suitable for individual self-defence or"
 " for the uniformed service man."
-msgstr ""
+msgstr "Тип пистолета выбирается в зависимости от конкретных целей. Пистолет, подходящий, например, для детектива в штатском, не обязательно подойдет для самообороны или для полицейского или военнослужащего в форме."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:32
 msgid ""
@@ -62,7 +62,7 @@ msgid ""
 "probably at very close quarters. For that purpose, our own choice would "
 "be a cut-down revolver of heavy calibre. :ref:`Fig. 22 (b) <viii_fig22b>`"
 " will show you better than any description what we mean."
-msgstr ""
+msgstr "Для начала рассмотрим случай детектива в штатском. Здесь оружие необходимо носить скрытым, и стрелок должен быть готов извлечь его и произвести первый выстрел очень быстро, скорее всего, на предельно короткой дистанции. Для этой цели мы выбрали бы револьвер крупного калибра с укороченным стволом. :ref:`Рис. 22b <viii_fig22b>` демонстрирует, что мы имеем в виду, лучше любого описания."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:41
 msgid ""
@@ -71,7 +71,7 @@ msgid ""
 "been cut off, the barrel length reduced to 2 inches, the front part of "
 "the trigger-guard has been removed, and grooves have been cut on the left"
 " side of the butt for the middle, third and little fingers."
-msgstr ""
+msgstr "Оружие на этом рисунке когда-то было самовзводным револьвером с пятидюймовым стволом калибра .45 Colt New Service. Можно видеть, что спица курка спилена, ствол укорочен до двух дюймов, передняя часть спусковой скобы удалена, а на рукоятке прорезаны канавки для трех пальцев."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:49
 msgid ""
@@ -79,7 +79,7 @@ msgid ""
 "revolver was chosen, primarily, because the butt is of adequate size for "
 "the average man's hand to grasp in a hurry without any fumbling. "
 "Secondly, it is one of the most powerful weapons possible to obtain."
-msgstr ""
+msgstr "Теперь о базовой модели и причинах столь радикальных изменений. Во-первых, этот крупный револьвер был выбран потому, что его рукоятка хорошо подходит для мужской руки среднего размера. Эту рукоятку можно захватить быстро и надежно. Ну а во вторых, это один из самых мощных револьверов, какие только можно приобрести."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:56
 msgid ""
@@ -88,7 +88,7 @@ msgid ""
 "hurry. As the hammer cannot be cocked by the thumb, the weapon has to be "
 "fired by a continuous pull on the trigger. With a sufficiency of "
 "practice, very fast shooting is rendered possible by this method."
-msgstr ""
+msgstr "Спица курка спилена, чтобы быстро извлекаемое оружие не могло зацепиться за одежду. Поскольку модифицированный курок взвести пальцем невозможно, стрелять придется только самовзводом. При достаточной практике будет получаться очень быстро."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:65
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 " less time for 2 inches of barrel to emerge from the holster than 5 "
 "inches. Contrary to what might be expected, there is no loss of accuracy,"
 " at any rate at the ranges at which the weapon is customarily used."
-msgstr ""
+msgstr "Укороченный ствол позволяет извлекать оружие быстрее. Очевидно, что два дюйма ствола покинут кобуру быстрее, чем пять дюймов. Вопреки ожиданиям, кучность огня не пострадает, по крайней мере, на тех дистанциях, на которых ожидается применение этого оружия."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:72
 msgid ""
@@ -106,7 +106,7 @@ msgid ""
 "the proper position round the trigger without any impediment whatever. "
 "The grooves on the butt are there to ensure that the fingers grip the "
 "weapon in exactly the same way every time."
-msgstr ""
+msgstr "Передняя часть спусковой скобы удалена, чтобы исключить еще одну возможную причину задержек. В нашем случае, указательный палец, каким бы длинным или толстым он не был, накладывается на спусковой крючок совершенно беспрепятственно. Канавки для пальцев на рукоятке помогают захватывать ее единообразно."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:81
 msgid ""
@@ -114,7 +114,7 @@ msgid ""
 "eminently practical weapon, let us say at once that we are not. We owe "
 "the idea to a book by Mr J. H. Fitzgerald of the Colt's Patent Fire Arms "
 "Manufacturing Company, and we gladly acknowledge our indebtedness."
-msgstr ""
+msgstr "Читатель может подумать, что мы являемся авторами этой разработки. Это не так. Мы почерпнули идею в книге Дж. Г. Фитцджеральда из компании Кольт, и мы у него в долгу."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:88
 msgid ""
@@ -125,7 +125,7 @@ msgid ""
 "other views. They are quite welcome to those views and we trust we may be"
 " allowed to retain ours. We shall do so, in any case, until we have good "
 "reason to alter them."
-msgstr ""
+msgstr "В качестве оружия, носимого открыто полицейскими или военнослужащими в форме, мы без колебаний предпочитаем пистолет. Чтобы не ввязываться в спор со сторонниками револьверов, назовем наше предпочтение персональным. Мы не возражаем против взглядов сторонников револьверов, но будем придерживаться наших. По крайней мере до тех пор, пока не найдутся веские причины их изменить."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:99
 msgid ""
@@ -133,13 +133,13 @@ msgid ""
 "pistol. It is said that it is unreliable, will often jamb without "
 "provocation and certainly will do so if mud, sand or water gets into the "
 "mechanism, and above all, it is not safe."
-msgstr ""
+msgstr "Мы знакомы с критикой в адрес автоматического пистолета. Говорят, что он ненадежен, что задержки (заклинивания) при стрельбе бывают даже без причины, и случаются почти всегда, когда в механизм попадает грязь, песок или вода, и, прежде всего, что пистолет небезопасен в обращении."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:105
 msgid ""
 "There have been and possibly still are automatics like that, but one is "
 "not obliged to use them."
-msgstr ""
+msgstr "Такие модели действительно существовали, а возможно, существуют и сегодня, однако никто не обязан их использовать."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:108
 msgid ""
@@ -149,7 +149,7 @@ msgid ""
 "doubts expressed in the matter, and it is worthy of note that both there "
 "and in Germany the automatic has long been in use as a standard weapon of"
 " the fighting services."
-msgstr ""
+msgstr "Мы полагаем, что на сегодняшний день Великобритания остается единственной страной, где надежность автоматического пистолета все еще подвергается сомнению. В Соединенных Штатах многие по-прежнему предпочитают револьвер; однако там мы ни разу не сталкивались с сомнениями в надежности пистолетов. Заметим, что в Соединенных Штатах, как и в Германии, пистолеты уже долгое время состоят на вооружении."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:117
 msgid ""
@@ -164,31 +164,31 @@ msgid ""
 "the affrays in which the service has taken part, to cast the slightest "
 "doubt on the reliability of the automatic, nor has there been a single "
 "instance of injury or death due to accident."
-msgstr ""
+msgstr "Вполне надежные модели автоматических пистолетов существуют. Мы утверждаем это на двадцатилетнем опыте эксплуатации таких пистолетов. Этот опыт включает работу в службе, состоящей более, чем из шести тысяч человек, в основном вооруженных пистолетами и имеющих самый серьезный опыт боевых столкновений. Если бы их оружие было в каком-либо отношении неудовлетворительным, двадцати лет хватило бы для выявления возможных дефектов. Однако ни в процессе огневой подготовки, ни при боевых столкновениях, за все это время не произошло ничего такого, что заставило бы усомниться в надежности автоматического пистолета. Не было также ни одного огнестрельного ранения в результате несчастного случая."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:133
 msgid ""
 "Apart from the question of reliability, we have found that in comparison "
 "with the revolver, the automatic offers the following advantages:---"
-msgstr ""
+msgstr "Даже если не говорить о надежности, мы обнаружили, что пистолет имеет перед револьвером следующие преимущества:"
 
 #: ../../source/fount/02-choosing-a-pistol.rst:137
 msgid "It is easier and quicker to recharge."
-msgstr ""
+msgstr "Пистолет проще и быстрее перезаряжается."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:138
 msgid "It can be fired at far greater speed."
-msgstr ""
+msgstr "Темп стрельбы из пистолета гораздо выше."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:139
 msgid "It is easier to shoot with."
-msgstr ""
+msgstr "Из пистолета легче стрелять."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:141
 msgid ""
 "The first point will be readily conceded but the other two may meet with "
 "opposition."
-msgstr ""
+msgstr "С первым пунктом спорить невозможно, однако остальные могут встретить возражения."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:144
 msgid ""
@@ -201,7 +201,7 @@ msgid ""
 "be cocked for each shot, the rate of fire would be funereal by "
 "comparison. A skilled shot can do excellent work with the automatic even "
 "while making it sound like a machine gun."
-msgstr ""
+msgstr "По-видимому, следует считать, что, при прочих равных условиях, первый выстрел из описанного выше укороченного револьвера можно произвести немного быстрее; однако в дальнейшем темп стрельбы из автоматического пистолета будет значительно выше. Отдача пистолета за счет работы автоматики сильно смягчается, а ход и усилие спуска гораздо меньше, чем у револьвера. Мы сейчас говорим, разумеется, о самовзводном револьвере. Курок револьвера, конечно, можно было бы каждый раз взводить пальцем, но тогда темп стрельбы был бы совершенно неудовлетворительным. Опытный же стрелок из пистолета может вести прицельный огонь при темпе стрельбы, почти как у пулемета."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:158
 msgid ""
@@ -215,7 +215,7 @@ msgid ""
 "trained in the use of the automatic, men appear definitely to need less "
 "subsequent practice to maintain the standard of shooting which has been "
 "attained in the course of training."
-msgstr ""
+msgstr "Смягченную отдачу, в сочетании с легким спуском, можно считать теоретическим обоснованием того, что из пистолета стрелять легче. Практически же правильность этого утверждения доказывает тренировочный процесс. Наблюдения демонстрируют, что в случае пистолета курс начальной подготовки занимает в три раза меньше времени, чем при использовании револьвера, а экономия боеприпасов получается более, чем двукратная. Более того, впоследствии стрелку из пистолета требуется заметно меньше тренировочного времени для поддержания достигнутого уровня."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:173
 msgid ""
@@ -223,7 +223,7 @@ msgid ""
 " training methods, and by way of preface to those chapters we must "
 "introduce and describe one more point in connection with the automatic, "
 "and this time we shall certainly be accused of heresy."
-msgstr ""
+msgstr "В главах, посвященных методам подготовки, мы будем касаться этих вопросов подробнее, но до этого мы затронем одну тему, относящуюся к автоматическим пистолетам. Тут, однако, нам не избежать обвинений в ереси."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:180
 msgid ""
@@ -242,7 +242,7 @@ msgid ""
 " to say here that our unorthodox methods have been subjected to the acid "
 "test of many years of particularly exacting conditions and have not been "
 "found wanting."
-msgstr ""
+msgstr "Мы питаем застарелую нелюбовь к тому изобилию предохранительных устройств, которыми снабжаются все автоматические пистолеты. Мы считаем, что эти устройства были причиной большего числа несчастных случаев, чем что-либо другое. Слишком много людей пострадало оттого, что предохранитель был снят, когда не должен был быть, и наоборот, когда оружие было на предохранителе в момент, когда это менее всего желательно. Мы считаем, что сначала надо отказаться от использования предохранителей, а затем использовать исключающие несчастные случаи методы обращения с оружием. В течение нашего курса огневой подготовки предохранитель фиксируется в положении «огонь». Подробнее об этом в главе III. Здесь скажем только, что наши методы испытаны многими годами службы в особо сложных условиях, и показали свою неограниченную пригодность."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:202
 msgid ""
@@ -252,7 +252,7 @@ msgid ""
 "illegal to do so and we have no wish to encourage law-breaking. "
 "Nevertheless, there are still some countries and circumstances in which "
 "it may be necessary and advisable for the private individual to go armed."
-msgstr ""
+msgstr "Мы обсудили выбор оружия как для агентов в штатском, так и для людей в форме. Осталось обсудить случай, когда частное лицо желает носить оружие для самозащиты. В большинстве стран это незаконно, и мы не имеем в виду поощрять нарушение закона. Тем не менее, в некоторых странах, и при некоторых обстоятельствах, может быть необходимо и благоразумно носить оружие."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:212
 msgid ""
@@ -269,7 +269,7 @@ msgid ""
 "individual will carry his pistol concealed). Do not forget the obligation"
 " which you are under to make yourself thoroughly safe and efficient with "
 "the weapon of your choice."
-msgstr ""
+msgstr "Частному лицу, имеющему право на ношение оружия, мы можем порекомендовать приобрести автоматический пистолет, и носить его в наплечной кобуре, описанной в следующей главе. Мы не стали бы рекомендовать малогабаритное оружие. Оно уступает обычному не только по мощности, но и по надежности. Качество изготовления может быть столь же высоким, но при малых размерах допуски на изготовление получаются слишком малыми, чтобы обеспечить столь необходимую абсолютную надежность. Мы рекомендуем автоматический пистолет большого размера и калибра отчасти потому, что уверены в его надежности, а отчасти из-за его формы. Будучи плоским, он не выпирает из-под одежды, как револьвер, и остается малозаметным (мы предполагаем, что частное лицо носит оружие скрытым). И не забывайте, что вы обязаны полностью овладеть навыками безопасного и эффективного обращения с оружием, которое для себя выбрали."
 
 #: ../../source/fount/02-choosing-a-pistol.rst:231
 msgid ""
@@ -289,5 +289,5 @@ msgid ""
 "aimed, either from the shoulder or the hip, and the spread of the shot "
 "charge combine to make it a much safer and more efficient weapon than any"
 " kind of one-hand gun in the use of which he is not proficient."
-msgstr ""
+msgstr "Нас также часто спрашивают, какое оружие лучше держать дома для самозащиты. Большинство людей, задающих этот вопрос, откровенно признаются в том, что плохо разбираются в огнестрельном оружии. При этом, как правило, они не имеют ни возможности, ни желания овладевать искусством обращения с пистолетом или револьвером. Мы убеждены, что в этом случае им лучше обзавестись сторожевой собакой, или даже просто полицейским свистком. Есть, впрочем, немало людей, чье знакомство с огнестрельным оружием ограничено гладкоствольным ружьем, с которым они неплохо умеют обращаться. Если такой человек уверен, что ему необходимо оружие «чтобы дома держать», мы можем порекомендовать обрез дробовика с внешними отбойными курками и стволами длиной примерно 18 дюймов. Маневрировать таким ружьем просто, целиться, от плеча или с бедра, легко, учитывая осыпь заряда; в руках человека, не знакомого с пистолетом, это оружие безопасно и эффективно."
 
