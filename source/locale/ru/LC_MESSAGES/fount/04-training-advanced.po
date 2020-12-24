@@ -299,27 +299,27 @@ msgid ""
 "for shooting at longer ranges, for in spite of having said that the great"
 " majority of shooting affrays take place within a distance of 4 yards, "
 "the need does arise occasionally for a long shot."
-msgstr ""
+msgstr "А теперь уместно обратить наше внимание на подготовку к стрельбе на длинных дистанциях. Хотя подавляющее большинство перестрелок и происходит на дистанциях менее четырех ярдов, время от времени возникает нужда попасть в удаленную цель."
 
 #: ../../source/fount/04-training-advanced.rst:256
 msgid ""
 "For a long shot in the standing position, we think the two-handed methods"
 " shown in Figs. 15 and 15a are best calculated to produce results."
-msgstr ""
+msgstr "Мы полагаем, что в этом случае наилучшие результаты могут быть достигнуты, если стрелок будет удерживать пистолет обеими руками (см. рис. 15 и 15a)."
 
 #: ../../source/fount/04-training-advanced.rst:262
 msgid "Fig. 15.---Two-Handed, Standing."
-msgstr ""
+msgstr "Рис. 15. С двух рук, стоя."
 
 #: ../../source/fount/04-training-advanced.rst:264
 msgid ""
 "The right arm is rigid and is supported by the left. Practise at any "
 "reasonable distance from 10 yards upwards."
-msgstr ""
+msgstr "Эту изготовку следует отрабатывать на дистанции 10 и более ярдов, в пределах разумного."
 
 #: ../../source/fount/04-training-advanced.rst:270
 msgid "Fig. 15a.---Two-Handed, Standing."
-msgstr ""
+msgstr "Рис. 15a. С двух рук, стоя."
 
 #: ../../source/fount/04-training-advanced.rst:272
 msgid ""
@@ -332,15 +332,15 @@ msgid ""
 "steady position at a mark which is against the sky-line, as it were, "
 "while you yourself offer a less conspicuous target for your opponents "
 "than if you were standing up."
-msgstr ""
+msgstr "В случае, когда стрелять приходится из положения лежа, удерживать оружие нужно, как показано на рис. 15 (см. также рис. 16). Кстати, если вам пришлось иметь дело с несколькими противниками сразу, принимайте эту изготовку как предпочтительную; вам стоит научиться принимать изготовку \"лежа\" немедленно, ради двух преимуществ сразу — во-первых, вы будете видеть ваших противников лучше, так как даже фоновое освещение (сверху) лучше выделяет цель; во-вторых, сами вы будете представлять более трудную цель."
 
 #: ../../source/fount/04-training-advanced.rst:287
 msgid "Fig. 16.---Two-Handed, Prone."
-msgstr ""
+msgstr "Рис. 16. С двух рук, лежа."
 
 #: ../../source/fount/04-training-advanced.rst:291
 msgid "Fig. 17.---Side View."
-msgstr ""
+msgstr "Рис. 17. Вид сбоку."
 
 #: ../../source/fount/04-training-advanced.rst:293
 msgid ""
@@ -355,11 +355,11 @@ msgid ""
 "forearm. The left knee and forearm are pressed against the pole, left "
 "hand is grasping the right wrist, thumb of the right hand resting against"
 " the pole. Fig. 18 also demonstrates the almost perfect cover provided."
-msgstr ""
+msgstr "Провидение наделило всех нас живым чувством самосохранения, а некоторых еще и стратегическим мышлением. Тем из наших читателей, кому повезло с даром стратегического мышления, нет нужды напоминать, что следует пользоваться любым укрытием, и когда только возможно. Однако не всем вовремя приходит мысль о том, что телеграфный или фонарный столб можно использовать как укрытие.  На рис. 17 показано, как это делать удобнее всего, а рис. 18 демонстрирует то же самое с точки зрения противника. Обратите внимание на положение ступней, коленей и левого предплечья. Левое колено и предплечье прижаты к столбу, левая рука удерживает правое запястье, большой палец правой руки также опирается на столб. На рис. 18 видно, насколько эффективно используется такое укрытие."
 
 #: ../../source/fount/04-training-advanced.rst:313
 msgid "Fig. 18.---Front View."
-msgstr ""
+msgstr "Рис. 18. Вид спереди."
 
 #: ../../source/fount/04-training-advanced.rst:315
 msgid ""
@@ -370,7 +370,7 @@ msgid ""
 "will be to your advantage, therefore, to practise all three of the two-"
 "handed methods at the same surprise targets as are used for short-range "
 "work."
-msgstr ""
+msgstr "Если для производства прицельного выстрела на длинной дистанции у вас достаточно много времени, очень хорошо, тем более, что все варианты изготовок с использованием двух рук и упоров обеспечивают исключительную устойчивость; однако не следует надеяться, что времени будет достаточно всегда. Поэтому, отрабатывая стрельбу на длинных дистанциях, следует использовать те же появляющиеся мишени, которые мы использовали ранее."
 
 #: ../../source/fount/04-training-advanced.rst:331
 msgid ""
@@ -390,7 +390,7 @@ msgid ""
 "issue if some suitable white-metal alloy were used instead of silver. "
 "Though not claimed as suitable for target work, these sights answer their"
 " purpose admirably where speed is the prime consideration."
-msgstr ""
+msgstr "Говоря о стрельбе на коротких дистанциях, мы решительно осудили использование прицельных приспособлений, однако на длинных дистанциях прицелы обеспечивают бесспорное преимущество. К сожалению, мы не можем признать стандартные прицельные приспособления удовлетворительными. Они могут быть очень хорошо видны на белом фоне при хорошем освещении, хуже на темном фоне, но при плохом освещении разглядеть их практически невозможно. Авторы решили эту проблему, снабдив свои личные пистолеты блестящими серебряными мушками, в форме обычной полусферической ружейной мушки, и примерно такого же размера. Если не давать такой мушке потускнеть, она будет отражать самый слабый свет, приходящий с любого направления, и будет видна при любых обстоятельствах, кроме полной темноты. Такие мушки прекрасно служат в тяжелых условиях, а при повреждении могут быть легко заменены. Мы не видим причин, которые могли бы помешать принятию этих мушек в качестве стандартных, при использовании подходящего блестящего сплава вместо серебра. Мы не утверждаем, что такие мушки хороши при стрельбе по мишеням, но для практической стрельбы в условиях недостатка времени они подходят прекрасно."
 
 #: ../../source/fount/04-training-advanced.rst:359
 msgid ""
@@ -399,5 +399,5 @@ msgid ""
 "slope to the rear, and once the gun is sighted-in, should be kept in "
 "place with a small set-screw. It will not shoot loose then and will be "
 "less liable to displacement or loss by accident or ill-usage."
-msgstr ""
+msgstr "Наиболее подходящим для работы в сочетании с серебряной мушкой является целик с прорезью в форме широкой и неглубокой буквы V. Целик монтируется с наклоном назад, и после пристрелки фиксируется небольшим винтом. Закрепленный таким образом целик не расшатывается при стрельбе и мало подвержен повреждениям в тяжелых условиях службы."
 
