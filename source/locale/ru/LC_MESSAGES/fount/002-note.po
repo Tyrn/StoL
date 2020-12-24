@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/fount/002-note.rst:2
 msgid "A Note from the Publisher"
-msgstr "Предисловие издателя"
+msgstr "От издателя"
 
 #: ../../source/fount/002-note.rst:4
 msgid ""

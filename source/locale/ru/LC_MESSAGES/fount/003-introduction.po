@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/fount/003-introduction.rst:2
 msgid "Introduction"
-msgstr "Введение"
+msgstr "Об авторах"
 
 #: ../../source/fount/003-introduction.rst:4
 msgid ""
