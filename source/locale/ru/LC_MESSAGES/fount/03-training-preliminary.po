@@ -143,7 +143,7 @@ msgid ""
 " :ref:`experiment <i_experiment>` of Chapter I. The mastery of this "
 "combination is all that is required for effective aiming at short range, "
 "a point which will emerge more clearly,"
-msgstr "Пункты a, b, c и d вместе с рис. 4 определяют основную задачу — исключить сознательный контроль ведущего глаза за процессом производства выстрела. Вместо этого, направление выстрела контролируется корпусом, развернутым в направлении мишени, рукой, приведенной к плоскости симметрии тела, и кистью, отвернутой вправо — бессознательно используемыми элементами эксперимента, описанного в главе I. Для эффективного прицеливания на короткой дистанции не нужно ничего, кроме освоения этой комбинации;"
+msgstr "Пункты a, b, c и d вместе с рис. 4 определяют основную задачу — исключить сознательный контроль ведущего глаза за процессом производства выстрела. Вместо этого, направление выстрела контролируется корпусом, развернутым в направлении мишени, рукой, приведенной к плоскости симметрии тела, и кистью, отвернутой вправо — бессознательно используемыми элементами :ref:`эксперимента <i_experiment>`, описанного в главе I. Для эффективного прицеливания на короткой дистанции не нужно ничего, кроме освоения этой комбинации;"
 
 #: ../../source/fount/03-training-preliminary.rst:123
 msgid "Fig. 2.---Preliminary to Ready Position."
@@ -222,23 +222,23 @@ msgstr "Чтобы зарядить пистолет, поверните его,
 
 #: ../../source/fount/03-training-preliminary.rst:191
 msgid "Fig. 5.---Inserting Magazine."
-msgstr ""
+msgstr "Рис. 5. Вставление магазина."
 
 #: ../../source/fount/03-training-preliminary.rst:195
 msgid "Fig. 6.---First Position of Loading."
-msgstr ""
+msgstr "Рис. 6. Заряжание (1)."
 
 #: ../../source/fount/03-training-preliminary.rst:199
 msgid "Fig. 7.---Second Position of Loading."
-msgstr ""
+msgstr "Рис. 7. Заряжание (2)."
 
 #: ../../source/fount/03-training-preliminary.rst:203
 msgid "Fig. 8.---Third Position of Loading."
-msgstr ""
+msgstr "Рис. 8. Заряжание (3)."
 
 #: ../../source/fount/03-training-preliminary.rst:209
 msgid "Fig. 9.---Removing Magazine."
-msgstr ""
+msgstr "Рис. 9. Извлечение магазина."
 
 #: ../../source/fount/03-training-preliminary.rst:211
 msgid ""
@@ -255,7 +255,7 @@ msgid ""
 " is ejected). Work the slide back and forth a few times, as an added "
 "measure of safety, and pull the trigger, the pistol pointing all the "
 "while to the ground."
-msgstr ""
+msgstr "Чтобы извлечь магазин, удерживайте его, как показано на рис. 9. Освободите магазин, нажав большим пальцем левой руки на защелку. Магазин необходимо поймать левой рукой и поместить его в подсумок, положить в карман, или по требованию передать инструктору. Все это время пистолет должен быть направлен вниз, так как курок взведен, а в патроннике находится патрон. После того, как магазин извлечен, поверните пистолет, как показано на рис. 10, и извлеките патрон из патронника, оттянув затвор назад большим и указательным пальцами левой руки. После непродолжительной практики нетрудно научиться ловить извлекаемый патрон левой рукой, чтобы избежать его утери или повреждения при падении. Оттяните и отпустите затвор несколько раз, в качестве дополнительной меры безопасности, и спустите курок; пистолет все это время направлен вниз."
 
 #: ../../source/fount/03-training-preliminary.rst:231
 msgid ""
@@ -269,23 +269,23 @@ msgid ""
 "\"proved\" by removing the magazine, working the slide back and forth "
 "several times and pulling the trigger, the pistol being held as shown in "
 "Figs. 9 and 10."
-msgstr ""
+msgstr "Разборка и чистка пистолета. Умение разбирать и собирать пистолет для чистки и смазки (выполнять неполную разборку) совершенно необходимо, и как раз сейчас наступил удобный момент объяснить, как это делается. Следует воспользоваться этим моментом, чтобы лишний раз убедить курсанта в том, что с оружием всегда следует обращаться, как если бы оно было заряжено, пока не доказано обратное. Перед тем, как курсанту будет разрешено положить пистолет на стол для последующей разборки, он должен продемонстрировать, что пистолет разряжен. Для этого ему следует извлечь магазин, несколько раз оттянуть и отпустить затвор, после чего спустить курок. Пистолет при этом следует держать, как показано на рис. 9 и 10."
 
 #: ../../source/fount/03-training-preliminary.rst:248
 msgid "Note"
-msgstr ""
+msgstr "Примечание"
 
 #: ../../source/fount/03-training-preliminary.rst:250
 msgid "\"Dummy\" ammunition should be used throughout this practice."
-msgstr ""
+msgstr "При изучении мер безопасности следует использовать учебные (непригодные для производства выстрела) патроны."
 
 #: ../../source/fount/03-training-preliminary.rst:255
 msgid "Fig. 10.---Working the Slide."
-msgstr ""
+msgstr "Рис. 10. Работа затвором."
 
 #: ../../source/fount/03-training-preliminary.rst:258
 msgid "3. Initial Firing Practice"
-msgstr ""
+msgstr "3. Первая стрельба"
 
 #: ../../source/fount/03-training-preliminary.rst:260
 msgid ""
@@ -303,7 +303,7 @@ msgid ""
 "has gone. In short, by the use of these methods the instructor has far "
 "less trouble, the recruit gains confidence, and whoever has to pay for it"
 " is saved a whole lot of ammunition."
-msgstr ""
+msgstr "Мишень должна быть белой, размером не менее, чем восемь на восемь футов; в центре мишени должна располагаться человеческая фигура в натуральную величину и в полный рост. Изображение должно быть контурным (светлым) (рис. 11). Курсант должен стоять на расстоянии не более двух ярдов от мишени. Размер мишени и дистанция стрельбы нуждаются в комментариях. При такой мишени и на такой дистанции даже самому неуклюжему новичку почти невозможно промахнуться. Таким образом, инструктор видит результат каждого выстрела и может немедленно определить, какие ошибки были сделаны курсантом, и принять меры к их исправлению. Новичок же, со своей стороны, переживает приятный сюрприз, видя, что даже он в состоянии попасть в мишень. Это гораздо лучше, чем испытать горькое разочарование, вообще не попав в мелкую мишень, и не имея никакого понятия о том, куда же ушла пуля. Инструктору так гораздо удобнее работать, курсант приобретает уверенность в своих силах, а тот, кто платит за боеприпасы, экономит много денег."
 
 #: ../../source/fount/03-training-preliminary.rst:282
 msgid ""
@@ -311,17 +311,17 @@ msgid ""
 "charging his magazine, inserting it in the pistol and putting on round in"
 " the breech, all as described in para. 2 (sections (*a*), (*b*) and "
 "(*c*)), the recruit stands at the \"ready\" position."
-msgstr ""
+msgstr "Курсанту выдается шесть патронов. Курсант снаряжает магазин, вставляет его в пистолет и досылает патрон, как описано в разделе 2, пункты a, b и c, затем принимает положение \"готов\"."
 
 #: ../../source/fount/03-training-preliminary.rst:290
 msgid ""
 "He should then be told to keep both eyes open, concentrate his gaze on "
 "the centre of the figure"
-msgstr ""
+msgstr "Далее от курсанта следует потребовать, чтобы он держал оба глаза открытыми, сосредоточил свое внимание на центре фигуры, и,"
 
 #: ../../source/fount/03-training-preliminary.rst:295
 msgid "Fig. 11.---Recruits' Target."
-msgstr ""
+msgstr "Рис. 11. Ростовая мишень."
 
 #: ../../source/fount/03-training-preliminary.rst:297
 msgid ""
@@ -333,7 +333,7 @@ msgid ""
 " *i.e.* in succession and as rapidly as the recruit can manage. He should"
 " remain afterwards in the firing position until told by the instructor to"
 " lower his arm to the \"ready.\""
-msgstr ""
+msgstr "быстро подняв руку, произвел выстрел, как только пистолет достигнет центра фигуры (раздел 1, пункты c и d). Немедленно после выстрела вновь принимается положение \"готов\". Таким образом, производится четыре выстрела. Последние два выстрела производятся в виде серии, то есть последовательно и так быстро, как только возможно, после чего курсант остается в положении изготовки к стрельбе до тех пор, пока инструктор не потребует опустить руку в положение \"готов\"."
 
 #: ../../source/fount/03-training-preliminary.rst:312
 msgid ""
@@ -345,7 +345,7 @@ msgid ""
 "enough to prevent the trigger from being \"yanked off.\" If the two "
 "rapid-fire shots are widely apart it is conclusive evidence of a loose "
 "grip."
-msgstr ""
+msgstr "Время на выполнение этого упражнения не ограничивается. Каждый из первых четырех выстрелов немедленно показывается на мишени. Пока курсант стоит в положении \"готов\", инструктор разъясняет ошибки, сделанные при производстве неудачных выстрелов. Ошибки эти обыкновенно просты - кисть руки недостаточно отвернута вправо, отклонение кисти вниз в момент выстрела, или недостаточно плотная хватка, что сказывается в момент нажатия на спуск. Если разброс при производстве двух последних выстрелов (серии) велик, это однозначно свидетельствует о неплотной хватке."
 
 #: ../../source/fount/03-training-preliminary.rst:324
 msgid ""
@@ -355,15 +355,15 @@ msgid ""
 "firing point. From there they can watch the shooting and its results. "
 "They should be permitted to talk but not loudly enough to prevent the man"
 " who is shooting from hearing what the instructor is saying."
-msgstr ""
+msgstr "Инструктор не должен успокаиваться, пока его разъяснения не начнут приводить к немедленному улучшению результатов, показываемых курсантом. Курсанты, не участвующие в стрельбе, должны быть построены в восьми - десяти ярдах позади линии огня. Им разрешается разговаривать, но не настолько громко, чтобы помешать выполняющему упражнение курсанту слышать инструктора."
 
 #: ../../source/fount/03-training-preliminary.rst:335
 msgid "4. Second Firing Practice"
-msgstr ""
+msgstr "4. Вторая стрельба"
 
 #: ../../source/fount/03-training-preliminary.rst:337
 msgid "Same target and distance"
-msgstr ""
+msgstr "Мишень и дистанция те же."
 
 #: ../../source/fount/03-training-preliminary.rst:338
 msgid ""
@@ -372,20 +372,20 @@ msgid ""
 "and its position in the magazine should be different for each man who "
 "takes his turn at the firing point. Men waiting to fire should not be "
 "allowed to watch the practice described below."
-msgstr ""
+msgstr "Курсанту вручается магазин, снаряженный пятью боевыми и одним учебным патроном. Курсанту не сообщается о наличии учебного патрона, и никому из курсантов, выполняющих упражнение по очереди,  не должно быть известно положение учебного патрона в магазине. Курсанты, ожидающие своей очереди, не должны видеть, как выполняется упражнение, описанное ниже."
 
 #: ../../source/fount/03-training-preliminary.rst:346
 msgid ""
 "The recruit is to fire as previously but this time in three \"bursts\" of"
 " two shots each. Errors of aiming should be corrected between \"bursts.\""
-msgstr ""
+msgstr "Упражнение выполняется, как описано в предыдущем разделе. Отличие состоит в том, что отстреливаются три серии по два выстрела каждая. Инструктор указывает курсанту на ошибки в перерывах между сериями."
 
 #: ../../source/fount/03-training-preliminary.rst:350
 msgid ""
 "When the \"dummy\" round is arrived at, treat it as a misfire. Have the "
 "recruit eject it *immediately* and carry on firing his next burst "
 "*without any delay*."
-msgstr ""
+msgstr "С учебным патроном поступают, как с осечкой. Курсант должен немедленно выбросить патрон и продолжать стрельбу без какой-либо задержки."
 
 #: ../../source/fount/03-training-preliminary.rst:354
 msgid ""
@@ -396,18 +396,18 @@ msgid ""
 "left hand when retracting the slide in order to eject a cartridge. This "
 "is a fault which is frequently found and should be corrected as soon as "
 "possible in the training course. See Fig. 10 for how it ought to be done."
-msgstr ""
+msgstr "По выполнении упражнения следует разъяснить курсанту, что ни в коем случае нельзя тратить время на такую бесполезную и крайне опасную вещь, как заглядывание в ствол с дула после осечки. Рано или поздно найдется курсант, который именно так и сделает. Следует также предупредить, что, выбрасывая патрон, нельзя перекрывать левой рукой вырез экстрактора на затворе, что может привести к задержке. Эта ошибка встречается часто, и ее следует исключить как можно раньше. Рис. 10 показывает, как правильно действовать затвором."
 
 #: ../../source/fount/03-training-preliminary.rst:368
 msgid "5. Third Firing Practice"
-msgstr ""
+msgstr "5. Третья стрельба"
 
 #: ../../source/fount/03-training-preliminary.rst:370
 msgid ""
 "Repetition of practice given under para. 4 but this time at 4 yards. If "
 "the recruit's shooting has been satisfactory so far, he may be allowed to"
 " fire this practice in two \"bursts\" of three rounds each."
-msgstr ""
+msgstr "Выполняется упражнение, описанное в разделе 4, но теперь на дистанции четыре ярда. Более успешным курсантам может быть разрешено произвести стрельбу двумя сериями, по три выстрела каждая."
 
 #: ../../source/fount/03-training-preliminary.rst:378
 msgid ""
@@ -426,5 +426,5 @@ msgid ""
 "their pistols hard because that is what they will do infallibly in the "
 "stress of actual combat, and that, when obliged to shoot, they will have "
 "to do so with all the aggressiveness of which they are capable."
-msgstr ""
+msgstr "Инструктору рекомендуется не избегать непродолжительных перерывов в процессе выполнения упражнений. Эти моменты следует использовать для того, чтобы разъяснять курсантам, в каких реальных условиях им может потребоваться применять оружие. Общие соображения приведены в главе I, разделы 3 и 4. Необходимо подчеркнуть, что большинство столкновений происходит на предельно короткой дистанции, что плохое освещение и неблагоприятная \"топография\" весьма вероятны, что огонь обычно следует вести сериями и что нет ничего важнее быстроты. Если не жалеть времени на разъяснение этих обстоятельств, курсант будет понимать, почему его готовят так, а не иначе. Ему будет ясно, например, что не следует смотреть на прицельные приспособления прежде всего потому, что на это никогда не будет времени, что хватка должна быть очень плотной, так как в боевой обстановке он неизбежно будет сжимать свое оружие с избыточной силой, и, что когда нужно стрелять, это надо делать со всей возможной решительностью."
 
