@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/fount/07-stopping-power.rst:2
 msgid "VII. Stopping Power"
-msgstr ""
+msgstr "VII. Поражающее действие"
 
 #: ../../source/fount/07-stopping-power.rst:4
 msgid ""
@@ -30,7 +30,7 @@ msgid ""
 " a number of years, does not lead us to any finality in the matter. "
 "Instead, it provides us with so many contradictions that we feel that "
 "anything approaching dogmatism would be most unwise."
-msgstr ""
+msgstr "Мы приступаем к этому предмету с немалой робостью. Мы считаем, что здесь следует решительно предпочесть практику теории, но даже практика, как показывают наблюдения, зафиксированные на протяжении ряда лет, не позволяет сделать сколько-нибудь окончательных выводов. Наблюдения эти настолько противоречивы, что не оставляют места никакому подобию догматизма."
 
 #: ../../source/fount/07-stopping-power.rst:13
 msgid ""
@@ -38,7 +38,7 @@ msgid ""
 " .25's, leaving only the larger calibres available in modern revolvers "
 "and automatic pistols. Those will be calibres .32, .38 and .45, or "
 "approximately those sizes."
-msgstr ""
+msgstr "Для простоты, .22 и .25 калибры мы не рассматриваем, обсуждаем только более крупные калибры, используемые в современных пистолетах и револьверах. Это .32, .38, .45 и близкие к ним калибры."
 
 #: ../../source/fount/07-stopping-power.rst:19
 msgid ""
@@ -49,7 +49,7 @@ msgid ""
 " even if it did not do so, the impact of such a formidable mass of lead "
 "would infallibly do all that was required, including knocking the enemy "
 "clean off his feet."
-msgstr ""
+msgstr "Нас воспитывали в представлении, что нет ничего лучше, чем мягкая и тяжелая безоболочечная пуля, летящая неторопливо, как встарь, если надо быстро и надежно избавиться от двуногого врага. Мы полагали, что такая пуля деформируется при попадании, а даже если нет, удар такой массы свинца неизбежно приведет к желаемым результатам, в том числе сразу собьет противника с ног."
 
 #: ../../source/fount/07-stopping-power.rst:29
 msgid ""
@@ -61,7 +61,7 @@ msgid ""
 "expansion shortly after impact. Expanding bullets, however, are barred by"
 " the rules of the game as we have had to play it, so for practical "
 "purposes we must confine ourselves to solid bullets."
-msgstr ""
+msgstr "Мы также думали, что оболочечная пуля примерно того же веса, но с более высокой начальной скоростью, обладает лишь повышенным пробивным действием, в ущерб шокирующему, и потому малопригодна на практике. Наконец, мы совершенно не доверяли легким пулям с высокой начальной скоростью, если только это не экспансивные пули. Экспансивные пули, однако, по нашим правилам игры не допускаются, и поэтому мы будем рассматривать только монолитные пули."
 
 #: ../../source/fount/07-stopping-power.rst:41
 msgid ""
@@ -71,7 +71,7 @@ msgid ""
 "impartial, and can assure our readers that in each case all data bearing "
 "on the subject was carefully sifted at the time and nothing has been "
 "preserved but actual facts."
-msgstr ""
+msgstr "Сегодня мы далеко не так тверды в наших старых убеждениях. Причины наших сомнений легче всего продемонстрировать на конкретных примерах. Мы приложим все усилия, чтобы остаться беспристрастными; читатель может быть уверен, что мы не предлагаем ничего, кроме действительных фактов."
 
 #: ../../source/fount/07-stopping-power.rst:50
 msgid ""
@@ -83,7 +83,7 @@ msgid ""
 " back of the criminal's head with the butt of his revolver. Subsequent "
 "investigations showed that one bullet only, and that barely deformed, "
 "remained in the body, the other four having passed clean through."
-msgstr ""
+msgstr "Первый пример относится к тяжелой безоболочечной пуле с невысокой начальной скоростью. Констебль-сикх, преследовавший вооруженного преступника, произвел шесть выстрелов из своего .455 Webley, при этом пять раз попал. Преступник продолжал бежать, сикх за ним. Кончилось дело тем, что констебль остановил преступника ударом рукояткой револьвера по затылку. Последующее исследование показало, что только одна пуля, к тому же практически не деформированная, осталась внутри тела, остальные прошли навылет."
 
 #: ../../source/fount/07-stopping-power.rst:62
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "came near to being fatal. In theory these two heavy bullets should have "
 "stopped toe man in his tracks, but the facts are as related. Can anyone "
 "explain?"
-msgstr ""
+msgstr "Позднее произошел похожий случай, правда, с применением другого оружия. Сержант-европеец, услышав стрельбу и крики "цяньтяо" (грабитель) ворвался в рисовую лавку, казавшуюся центром этого безобразия, где и увидел вооруженного китайца, грабящего кассу. Китаец немедленно открыл огонь по сержанту из пистолета, на дистанции около 6 ярдов; после нескольких выстрелов пистолет заклинило. К счастью, попаданий не было. Быстро приближаясь к противнику, сержант открыл ответный огонь из своего Кольта .45 калибра, начиная примерно с 10 футов; шестой и последний выстрел был произведен на дистанции около трех футов. Потом стало известно, что четыре пули прошли навылет, одна застряла в плече, а одна — около сердца. Несмотря на это, преступник остался на ногах и попытался бежать, но был оглушен рукояткой пистолета, когда перелезал через прилавок. Здесь мы имеем две тяжелые оболочечные пули, которые не унесли свою энергию, пройдя навылет, причем одна из них причинила едва ли не смертельное ранение. В теории, бандит должен был упасть, как пораженный громом, но случилось именно то, что случилось. Кто-нибудь берется объяснить?"
 
 #: ../../source/fount/07-stopping-power.rst:90
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 " that big-game hunters will recall of animals dropping instantly to neck "
 "shots that just miss the vertebra, only to get up again a few moments "
 "after and disappear over the horizon."
-msgstr ""
+msgstr "Если же говорить о меньших калибрах и более легких пулях, единственный зарегистрированный нами случай, когда человек упал немедленно в результате попадания, относится к патрону .380 ACP. Пуля попала спереди, и остановилась вблизи позвоночника. Тем не менее, раненый быстро пришел в себя, и оказался способен встать на ноги. Нам этот случай напоминает эпизоды, о которых могут рассказать многие охотники на крупную дичь, когда животное, раненное в шею пулей, прошедшей вблизи позвоночника, мгновенно падает, чтобы спустя несколько секунд подняться и... исчезнуть."
 
 #: ../../source/fount/07-stopping-power.rst:104
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "rightly or wrongly, as the Mauser military automatic. The mention of the "
 "word is sufficient, if there is trouble afoot, to send men in instant "
 "search of bullet-proof equipment."
-msgstr ""
+msgstr "Что касается оружия малого калибра с высокой начальной скоростью пули, то нам случалось наблюдать серьезнейшие повреждения, наносимые пулей калибра 7.63 мм, выпущенной из пистолета Маузер военного образца. В одном случае человек был ранен в руку, и доставлен в больницу в пределах получаса. Тем не менее, ампутации избежать не удалось, настолько сильно была раздроблена кость и размозжены ткани. В теории, по крайней мере, такая пуля не должна была нанести такого ущерба. Насколько мы можем судить по литературе, подобный поражающий эффект наблюдается при стрельбе из современных винтовок малого калибра со сверхвысокой начальной скоростью пули по крупной дичи. Мы можем только добавить, что в службе, из архивов которой мы берем наши примеры, никакого пистолета не опасаются больше, заслуженно или нет, чем Маузера казенного образца. В острой ситуации достаточно упомянуть это оружие, чтобы все немедленно занялись поисками бронежилетов."
 
 #: ../../source/fount/07-stopping-power.rst:126
 msgid ""
@@ -148,7 +148,7 @@ msgid ""
 "come to it has been to allow ourselves to be shot at while holding a "
 "bullet-proof shield. The chief value of that experiment was a conclusive "
 "demonstration of the efficacy of the shield."
-msgstr ""
+msgstr "Мы пробовали разобраться с проблемой останавливающего действия пули экспериментально, но удовлетворительного подхода найти не удалось. Все, что мы смогли сделать, это провести стрельбы по пуленепробиваемому щиту, удерживаемому рукой. Основной пользой этих опытов была убедительная демонстрация эффективности пуленепробиваемых щитов."
 
 #: ../../source/fount/07-stopping-power.rst:134
 msgid ""
@@ -167,14 +167,14 @@ msgid ""
 "not be wise to conclude either that the shock of impact would have been "
 "so slight or that the various bullets would have behaved exactly as they "
 "did."
-msgstr ""
+msgstr "Как бы то ни было, эти эксперименты дали нам возможность представить, что чувствует человек, по которому стреляют на предельно короткой дистанции. По сути, эти опыты — не более, чем стрельба пулями различных типов по очень твердой поверхности большой площади, находящейся на упругой опоре (руке). Сила удара увеличивается с ростом скорости пули, но во всех случаях она невелика — рука лишь незначительно подается при попадании. С пулями при попадании ничего неожиданного не происходит. Мягкие свинцовые пули с низкой начальной скоростью расплющиваются, полностью теряя форму, оболочечные пули со средней начальной скоростью распадаются на крупные и сильно деформированные фрагменты, а оболочечные пули с высокой начальной скоростью разрушаются практически полностью. Едва ли разумно, однако, предполагать, что если стрельбу вести не по щиту, а по человеку, то ощущение удара будет столь же незначительным, а пули поведут себя точно так же, как при стрельбе по щиту."
 
 #: ../../source/fount/07-stopping-power.rst:155
 msgid ""
 "Other tests, carried out by firing into wood of varied thickness and "
 "hardness, very rarely showed any appreciable deformation of bullets, even"
 " if they were of soft lead."
-msgstr ""
+msgstr "Стрельба по деревянным преградам различной толщины и твердости показала, что в этом случае даже мягкие свинцовые пули деформируются редко."
 
 #: ../../source/fount/07-stopping-power.rst:160
 msgid ""
@@ -183,7 +183,7 @@ msgid ""
 "disintegration is due to the sudden arrestation of the rotary motion when"
 " bullets are fired from a rifled barrel at objects hard enough to resist "
 "them effectively?"
-msgstr ""
+msgstr "После всех этих экспериментов остался вопрос, на который мы и сейчас не можем ответить. Когда пуля, выпущенная из нарезного ствола, попадает в достаточно твердую преграду, ее вращение мгновенно тормозится. В какой степени это обстоятельство влияет на ее деформацию и разрушение?"
 
 #: ../../source/fount/07-stopping-power.rst:167
 msgid ""
@@ -194,7 +194,7 @@ msgid ""
 "and variety of our records we do not consider that we have had, even yet,"
 " sufficient visual proof of the behaviour and effects of bullets fired in"
 " human targets to enable us to lay down any hard-and-fast rules."
-msgstr ""
+msgstr "В этой главе мы всего лишь описали несколько случаев, когда разные типы оружия и боеприпасов ведут себя не как положено. Умозрительные выводы, основанные на теории, а быть может, и на непроверенных слухах, кажутся опровергнутыми. Мы говорим \"кажутся\", так как, несмотря на длительный и разнообразный опыт, мы не накопили данных о поведении пуль, попадающих в живую мишень, достаточных для того, чтобы сформулировать какие-либо простые и надежные правила."
 
 #: ../../source/fount/07-stopping-power.rst:178
 msgid ""
@@ -203,7 +203,7 @@ msgid ""
 "We do not know for certain, either, that a full-jacketed high-velocity "
 "small-calibre bullet will always have the effect described in the "
 "particular instance which we have given."
-msgstr ""
+msgstr "Мы не утверждаем, что останавливающее действие тяжелой мягкой свинцовой пули не так велико, как это принято считать. Мы только говорим, что никогда его не наблюдали. Мы не знаем также, будет ли всегда высокоскоростная оболочечная пуля малого калибра иметь такой же эффект, как в описанном нами эпизоде."
 
 #: ../../source/fount/07-stopping-power.rst:186
 msgid ""
@@ -216,7 +216,7 @@ msgid ""
 "men are not knocked out by bullets when they ought to be. Again, if a "
 "bullet caught a man off balance, might not that aid in producing the "
 "appearance of a knock-down blow?"
-msgstr ""
+msgstr "Мы склонны полагать, что кое-что тут должно зависеть и от человеческого фактора. Опытный боец в прекрасной физической форме может выдержать гораздо больше, чем человек слабый и неподготовленный. Способность переносить шок и боль так же, по-видимому, зависит от типа и состояния нервной системы, и в этом отношении существует заметная разница между представителями различных рас. К тому же, если пуля настигла человека в момент потери равновесия, не может ли это создать впечатление мгновенного поражения?"
 
 #: ../../source/fount/07-stopping-power.rst:199
 msgid ""
@@ -227,7 +227,7 @@ msgid ""
 " almost always has fatal results, and that is an excellent reason for "
 "such equipment as effective bullet-proof vests, at least for the use of "
 "police."
-msgstr ""
+msgstr "Мы еще не упомянули о другом явлении, постоянно наблюдаемом на протяжении многих лет. Попадание в область живота практически всегда заставляет человека бросить все, что бы он ни держал в руках, и схватиться за живот. Мы можем добавить, что такое ранение практически всегда смертельно, и это самое веское основание для использования бронежилетов, по крайней мере, в полиции."
 
 #: ../../source/fount/07-stopping-power.rst:209
 msgid ""
@@ -238,7 +238,7 @@ msgid ""
 "power, but the added weight and size of such a weapon would almost "
 "certainly render it unsuitable for average requirements. So perhaps we "
 "shall have to make the best of such weapons as are available to us."
-msgstr ""
+msgstr "Если считать идеальным такое оружие, которое позволяет со стопроцентной уверенностью остановить человека одним попаданием в корпус, то придется признать, что даже лучшим современным пистолетам и револьверам чего-то не хватает. Несомненно, этого можно достичь, значительно увеличив калибр и мощность, но тогда практически наверняка вес и размер такого оружия сделают его непригодным для использования в обычных условиях. Так что, вероятно, нам придется добиваться предельной эффективности с тем оружием, которое мы имеем сегодня."
 
 #: ../../source/fount/07-stopping-power.rst:220
 msgid ""
@@ -247,33 +247,33 @@ msgid ""
 "them fsaying, \"But there must be one or two kinds of pistol that are "
 "better than all the others. Why on earth can't they tell us what they "
 "are?\""
-msgstr ""
+msgstr "Те читатели, которым хватило терпения дочитать настоящую главу до этого места, могут выразить законное недовольство неопределенностью наших выводов. Они могут сказать: \"Но должны же быть один или два пистолета, которые лучше всех остальных? Почему бы просто не назвать их?\""
 
 #: ../../source/fount/07-stopping-power.rst:227
 msgid ""
 "If that question is asked, we should reply that, for ourselves, we should"
 " choose the pistol which, while being easy to carry and convenient to "
 "use, would conform most nearly with he following requirements:---"
-msgstr ""
+msgstr "Отвечая за себя, мы скажем следующее: выбранный нами пистолет, помимо того, что должен быть удобным в ношении и простым в использовании, должен как можно лучше отвечать следующим требованиям:"
 
 #: ../../source/fount/07-stopping-power.rst:233
 msgid "The maximum of stopping power."
-msgstr ""
+msgstr "Иметь наибольшее останавливающее действие."
 
 #: ../../source/fount/07-stopping-power.rst:234
 msgid "The maximum volume of fire."
-msgstr ""
+msgstr "Иметь наибольшую практическую скорострельность."
 
 #: ../../source/fount/07-stopping-power.rst:235
 msgid "The maximum speed of discharge."
-msgstr ""
+msgstr "Обеспечивать наивысший темп стрельбы."
 
 #: ../../source/fount/07-stopping-power.rst:237
 msgid ""
 "To attain the first requirement we should choose a cartridge that "
 "represents what we consider a safe middle course, *i.e.* with a bullet of"
 " reasonably large calibre and weight, driven at a very high velocity."
-msgstr ""
+msgstr "Чтобы удовлетворить первому требованию, следует проявить разумную умеренность в выборе патрона. Пуля такого патрона должна иметь достаточно большой вес и калибр, а также высокую начальную скорость."
 
 #: ../../source/fount/07-stopping-power.rst:243
 msgid ""
@@ -288,7 +288,7 @@ msgid ""
 "of ours implies the necessity for a large volume of fire, quite apart "
 "from the desirability on other grounds of having as many rounds as "
 "possible at one's disposal without having to reload."
-msgstr ""
+msgstr "Второе требование связано с предпочтением, которое мы отдаем стрельбе сериями по два и более выстрела, о чем речь шла в главах III и IV. Мы считаем, что неизбежный недостаток останавливающего действия может быть до некоторой степени компенсирован несколькими попаданиями, следующими быстро одно за другим. Медицинские данные в целом подтверждают такое мнение, как и наши непосредственные впечатления от тяжелейших поражений, наносимых автоматическим огнем, например, из автомата Томпсон. Очевидно, чтобы обеспечить многократные попадания, высокая практическая скорострельность необходима; к тому же магазин большой емкости удобен и позволяет избежать частого перезаряжания."
 
 #: ../../source/fount/07-stopping-power.rst:259
 msgid ""
@@ -296,5 +296,5 @@ msgid ""
 " extreme rapidity of fire. For ourselves we can accomplish this our third"
 " desideratum, most easily with an automatic. The more closely our own "
 "pistols resemble machine-guns, the better we like it."
-msgstr ""
+msgstr "В этой книге мы повсюду подчеркивали жизненную необходимость высокого темпа стрельбы. Легче всего это достигается использованием автоматического пистолета, и чем больше наш пистолет напоминает автомат, тем лучше."
 

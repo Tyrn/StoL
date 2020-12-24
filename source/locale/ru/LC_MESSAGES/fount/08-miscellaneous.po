@@ -20,15 +20,15 @@ msgstr ""
 
 #: ../../source/fount/08-miscellaneous.rst:2
 msgid "VIII. Miscellaneous"
-msgstr ""
+msgstr "VIII. Разное"
 
 #: ../../source/fount/08-miscellaneous.rst:4
 msgid "Holsters."
-msgstr ""
+msgstr "Кобура."
 
 #: ../../source/fount/08-miscellaneous.rst:5
 msgid "Care and Cleaning of Pistols."
-msgstr ""
+msgstr "Уход и чистка."
 
 #: ../../source/fount/08-miscellaneous.rst:7
 msgid ""
@@ -36,7 +36,7 @@ msgid ""
 "in uniform must obviously be of a standard pattern, and there is little "
 "room for all the refinements that to to the making of a really good "
 "holster where individual requirements are the only consideration."
-msgstr ""
+msgstr "Очевидно, что военнослужащий или полицейский в форме, который носит оружие открыто, может пользоваться только кобурой казенного образца, что оставляет мало места для индивидуальной подгонки, без которой по-настоящему хорошей кобуры не бывает."
 
 #: ../../source/fount/08-miscellaneous.rst:14
 msgid ""
@@ -61,11 +61,11 @@ msgid ""
 "be entirely open if the design of the pistol is such that it will slip "
 "too far down, but it is always possible to leave an aperture or apertures"
 " of adequate size for draining."
-msgstr ""
+msgstr "Тем не менее, и над казенной кобурой можно немного поработать, чего чаще всего не делают. Извлечь оружие из такой кобуры так же быстро, как из кобуры специально разработанной модели, может быть, и нельзя, но кое-что в этом отношении сделать можно. Рукоятка пистолета должна выступать из кобуры настолько, чтобы ее можно было сразу захватить рукой; разыскивать рукоятку в глубине кобуры не годится. Если легко и быстро захватить рукоятку не получается, значит с кобурой что-то решительно не так. На передней поверхности кобуры должен быть вырез, позволяющий указательному пальцу без помех попадать внутрь спусковой скобы, без того, чтобы ломать ногти о жесткую кожу, как нередко и бывает. Оружие фиксируется в кобуре при помощи широкого или узкого клапана; в любом случае клапан застегивается металлической кнопкой. Узкий клапан не должен быть шире, чем это необходимо. Широкий клапан лучше защищает пистолет от загрязнения и плохой погоды, и мы не думаем, что он всерьез мешает быстрому извлечению оружия. Снизу кобура не должна быть закрыта наглухо, на тот случай, если в кобуру попало много воды. Конструкция пистолета может позволять ему проскальзывать вглубь, если кобура открыта снизу полностью; в этом случае можно ограничиться одним или несколькими отверстиями, достаточными для стока воды."
 
 #: ../../source/fount/08-miscellaneous.rst:54
 msgid "Fig. 20."
-msgstr ""
+msgstr "Рис. 20."
 
 #: ../../source/fount/08-miscellaneous.rst:56
 msgid ""
@@ -83,7 +83,7 @@ msgid ""
 "uniform preventing the lanyard from slipping off. Never wear the lanyard "
 "round the neck, as we have sometimes seen it done, for needless to say, "
 "such a practice is liable to add to the danger very considerably."
-msgstr ""
+msgstr "Осталось рассмотреть, в каком месте на ремне должна располагаться кобура. Авторы предпочитают носить кобуру слева. В этом случае (рис. 20) извлечь пистолет из кобуры можно достаточно быстро, а если стрелять не надо, левой рукой удобно парировать попытки других лиц вытащить оружие из кобуры. Такие попытки вовсе не редкость в толпе или при сопротивлении задержанию. В качестве дополнительной меры против этой угрозы, а она может быть серьезной, мы рекомендуем использовать прочный ремешок, продетый в отверстие на рукоятке. Когда оружие в кобуре, ремешок образует свободную петлю, затем уходит под правый погон, и далее к поясному ремню. Никогда не следует носить ремешок вокруг шеи, как это иногда делается; стоит ли объяснять, почему такое может дорого обойтись."
 
 #: ../../source/fount/08-miscellaneous.rst:82
 msgid ""
@@ -99,14 +99,14 @@ msgid ""
 "and tied round the leg. Though so far we have been referring solely to "
 "holsters to be worn openly when in uniform, it will be obvious that the "
 "necessity for resistance exists for all other holsters as well."
-msgstr ""
+msgstr "Где бы кобура ни располагалась, ее крепление должно быть таким, чтобы обеспечивать максимальную неподвижность при извлечении оружия. То есть, пистолет должен легко выходить из кобуры, которая при этом остается настолько неподвижной, насколько это возможно. В противном случае, когда кобура следует за пистолетом, извлечение получается медленным и неуклюжим. Если кобура располагается на правом бедре, нужное сопротивление можно обеспечить при помощи ремня, закрепленного внизу кобуры и охватывающего ногу. Хотя до сих пор мы обсуждали кобуру казенного образца, которую носят открыто, очевидно, что требование неподвижности относится и к любой другой кобуре."
 
 #: ../../source/fount/08-miscellaneous.rst:100
 msgid ""
 "Turning now to holsters for other purposes, we strongly recommend the "
 "reader to be satisfied only with the best and to take any amount of "
 "trouble in order to get it."
-msgstr ""
+msgstr "Но довольно о кобуре казенного образца. Первый совет читателю, желающему обзавестись своей собственной кобурой — не останавливаться ни перед какими усилиями, чтобы обзавестись самым лучшим, что может предложить рынок."
 
 #: ../../source/fount/08-miscellaneous.rst:105
 msgid ""
@@ -119,47 +119,47 @@ msgid ""
 "personally, provide him with such information as is appropriate to your "
 "requirements. Depending on those requirements, such information might "
 "well consist of"
-msgstr ""
+msgstr "Предположим, что пистолет у вас уже есть. Прежде всего, следует определиться, как вы будете его носить, открыто или скрыто. Если скрыто, то под левым плечом (рис. 21 и 21a) или на поясе (за поясом), см. рис. 22, 22a и 22b? Приняв окончательное решение, закажите кобуру мастеру с хорошей репутацией. Если вы не можете лично встретиться с вашим мастером, пошлите ему все необходимые данные. В зависимости от вашего выбора это могут быть:"
 
 #: ../../source/fount/08-miscellaneous.rst:118
 msgid "The make and model of the pistol."
-msgstr ""
+msgstr "Модель пистолета."
 
 #: ../../source/fount/08-miscellaneous.rst:119
 msgid "Your chest, waist and shoulder measurements."
-msgstr ""
+msgstr "Объем груди, талии и плеч."
 
 #: ../../source/fount/08-miscellaneous.rst:120
 msgid "Length of arm."
-msgstr ""
+msgstr "Длина руки."
 
 #: ../../source/fount/08-miscellaneous.rst:121
 msgid "Size of hand and length and thickness of trigger-finger."
-msgstr ""
+msgstr "Размер кисти, а также длина и толщина указательного пальца."
 
 #: ../../source/fount/08-miscellaneous.rst:123
 msgid "A photograph of yourself, showing the clothes usually worn."
-msgstr ""
+msgstr "Ваша собственная фотография в одежде, какую вы обычно носите."
 
 #: ../../source/fount/08-miscellaneous.rst:128
 msgid "Fig. 21.---Shoulder Holster."
-msgstr ""
+msgstr "Рис. 21. Наплечная кобура."
 
 #: ../../source/fount/08-miscellaneous.rst:132
 msgid "Fig. 21a.---Shoulder Holster."
-msgstr ""
+msgstr "Рис. 21a. Наплечная кобура."
 
 #: ../../source/fount/08-miscellaneous.rst:136
 msgid "Fig. 22.---Belt-Holster and Pistol."
-msgstr ""
+msgstr "Рис. 22. Револьвер в поясной кобуре."
 
 #: ../../source/fount/08-miscellaneous.rst:140
 msgid "Fig. 22a.---Belt-Holster and Pistol."
-msgstr ""
+msgstr "Рис. 22a. Револьвер в поясной кобуре."
 
 #: ../../source/fount/08-miscellaneous.rst:146
 msgid "Fig. 22b.---Cut-down Revolver."
-msgstr ""
+msgstr "Рис. 22b. Укороченный револьвер."
 
 #: ../../source/fount/08-miscellaneous.rst:148
 msgid ""
@@ -171,7 +171,7 @@ msgid ""
 "way that you will be able to get the utmost out of the pistol of your "
 "choice. That, we presume, is you object, and that to attain it you will "
 "be prepared to go to the necessary trouble and expense."
-msgstr ""
+msgstr "Располагая этой информацией, мастер сможет изготовить кобуру, соответствующую всем вашим требованиям, и, в том числе, определить правильный угол ношения, что очень важно при быстром извлечении пистолета. Сказанное может показаться непосвященным излишним пристрастием к мелким деталям, но только так можно добиться от пистолета максимальной эффективности. Мы полагаем, что ваша цель именно такова, и для этого придется пойти на определенные затраты."
 
 #: ../../source/fount/08-miscellaneous.rst:160
 msgid ""
@@ -180,7 +180,7 @@ msgid ""
 "made will not make you any quicker on the draw without practice, and "
 "plenty of it. Nothing can excel \"dry\" practice in front of a mirror, "
 "and a friend with a stop-watch can often help you materially."
-msgstr ""
+msgstr "Предположим, что хорошая кобура у вас уже есть. Это не значит, что ее можно спрятать и забыть. Обладание — это далеко не все. Самая лучшая кобура не сделает ваши действия стремительными без серьезной практики. Нет ничего лучше тренировки перед зеркалом, а друг с секундомером поможет оценить достигнутые результаты."
 
 #: ../../source/fount/08-miscellaneous.rst:168
 msgid ""
@@ -199,7 +199,7 @@ msgid ""
 " man who not only had sufficient ingenuity to make a holster which "
 "exactly met his particular requirements, but sufficient application to "
 "perfect himself in its use by assiduous \"dry\" practice."
-msgstr ""
+msgstr "Разумеется, воспользоваться услугами опытного мастера — это самый безопасный и верный путь. Это не значит, что нет неспециалистов, способных придумать и изготовить отличную кобуру для собственных нужд. Один из лучших образцов, которые нам случалось видеть, был разработан и изготовлен патрульным полицейским-мотоциклистом. Сделанный из обрезанной казенной кобуры и закрепленный шнурками, законченный продукт не выглядел особенно шикарным, что не мешало ему быть в высшей степени практичным. Кобура крепилась чуть ниже пояса, под пряжкой ремня, и позволяла владельцу уверенно и практически мгновенно переместить руку с руля мотоцикла на рукоятку пистолета. Более того, пистолет не мог выпасть из этой кобуры даже при езде по самой плохой дороге. Вот пример неспециалиста, которому хватило не только изобретательности, чтобы изготовить кобуру, удовлетворяющую его особым требованиям, но и упорства, чтобы тренировкой достичь совершенства."
 
 #: ../../source/fount/08-miscellaneous.rst:190
 msgid ""
@@ -213,7 +213,7 @@ msgid ""
 " get any idea how it was done. Had the doctor been actually held up at "
 "the moment, it is more than likely that his assailant would have been "
 "completely beaten by the utter unexpectedness of the thing."
-msgstr ""
+msgstr "Другим примером изобретательного любителя оказался врач из Сан-Диего, с которым довелось встретиться одному из авторов, хотя в этом случае речь скорее идет не о кобуре, а о специальном приспособлении. Доктор, которому приходилось проводить много времени в своем автомобиле, разработал средство на случай попытки ограбления в то время, когда он находится за рулем. Водителю достаточно было шевельнуть руками, чтобы в них мгновенно появилась пара револьверов .38 калибра, готовых к немедленному применению. У наблюдателя создавалось впечатление, что оружие появляется ниоткуда, и настолько быстро, что понять, как это делается, не представлялось возможным. Случись доктору в такой момент подвергнуться нападению, более чем вероятно, что полная неожиданность происходящего не оставила бы грабителю никаких шансов."
 
 #: ../../source/fount/08-miscellaneous.rst:205
 msgid ""
@@ -221,7 +221,7 @@ msgid ""
 "sufficient to say that it was the result of many weeks of planning, "
 "adjustment and \"dry\" practice, all of which the doctor found to be "
 "\"well worth the trouble, and great fun besides.\""
-msgstr ""
+msgstr "Даже если бы мы могли описать эту конструкцию, мы бы не стали этого делать. Достаточно сказать, что в этом случае ценой успеха были многие недели, отданные разработке, наладке и тренировкам, о которых сам доктор отозвался так: \"Стоило потраченного времени; к тому же, получил массу удовольствия\"."
 
 #: ../../source/fount/08-miscellaneous.rst:211
 msgid ""
@@ -229,7 +229,7 @@ msgid ""
 "Martin Brothers at quick-draw work with their famous front-draw holsters,"
 " one strapped down on each thigh, and he left firmly convinced that San "
 "Diego would be a very good town for bad men to keep away from."
-msgstr ""
+msgstr "В день знакомства с изобретательным доктором автор также имел удовольствие посетить представление братьев Мартин, демонстрировавших молниеносную работу с их знаменитой набедренной кобурой, где оружие извлекается вперед, а не вверх. Автор покинул Сан-Диего в твердом убеждении, что это замечательный город, от которого плохим парням следует держаться подальше."
 
 #: ../../source/fount/08-miscellaneous.rst:218
 msgid ""
@@ -240,7 +240,7 @@ msgid ""
 " may well consist of fifty rounds of rapid fire. If all bearing-parts are"
 " then smoothed up by an armourer who knows his business, the pistols will"
 " not only be pleasanter to shoot with but will last much longer."
-msgstr ""
+msgstr "Пистолет напоминает автомобильный двигатель, да и любой другой сколько-нибудь сложный механизм, в том отношении, что нуждается в \"обкатке\" и последующей \"наладке\", с целью притирки движущихся частей и устранения мелких дефектов. Сказанное относится в первую очередь к пистолетам, и в этом случае с целью \"обкатки\" имеет смысл произвести 50 выстрелов в быстром темпе. Если после этого трущиеся части будут обследованы и обработаны опытным оружейником, пистолет прослужит гораздо дольше, да и стрелять из него будет приятнее."
 
 #: ../../source/fount/08-miscellaneous.rst:229
 msgid ""
@@ -250,7 +250,7 @@ msgid ""
 "if such parts are all stamped plainly with the numbers borne by the "
 "respective pistols to which they belong. This also ensures that pistols "
 "are correctly reassembled by the armourers after a general overhaul."
-msgstr ""
+msgstr "Если разборкой и чисткой заняты несколько человек одновременно, следует позаботиться о том, чтобы детали разных пистолетов не были перепутаны. Для этого полезно отмаркировать все детали, какие возможно, номерами пистолета, к которому они относятся. Это также поможет оружейникам, занимающимся плановой переборкой пистолетов."
 
 #: ../../source/fount/08-miscellaneous.rst:239
 msgid ""
@@ -260,7 +260,7 @@ msgid ""
 "brush. Provide yourself also with an aqueous solvent (of the nature of "
 "\"Chloroil\" or Young's .303 Cleaner), some flannelette patches and a "
 "tube of gun grease."
-msgstr ""
+msgstr "В наши дни чистить оружие несложно. Обзаведитесь мастичным шомполом со сменными наконечниками, а именно: медным ершиком, ершиком из щетины и наконечником с прорезью для протирочной ветоши. Вам понадобится также чистящий раствор на водной основе (типа Хлорола или растворителя Янга), ветошь и густая ружейная смазка."
 
 #: ../../source/fount/08-miscellaneous.rst:248
 msgid ""
@@ -277,25 +277,25 @@ msgid ""
 "and *neither breech nor muzzle should be choked or clogged up*. If care "
 "is exercised in these respects, the pistol may be fired subsequently "
 "without having to wipe the barrel out first."
-msgstr ""
+msgstr "Разберите пистолет; отделите ствол, если позволяет конструкция. Окуните медный ершик в чистящий раствор, и прогоните его шомполом через ствол несколько раз, чтобы размягчить нагар, и, что особенно важно, удалить соль, выделяющуюся при использовании боеприпасов с оржавляющими капсюлями. Затем поменяйте наконечник шомпола и протрите канал ствола несколько раз, сначала ветошью, смоченной в чистящем растворе, а затем сухой ветошью. Последняя сухая тряпочка должна остаться совершенно чистой. В заключение необходимо наложить густую ружейную смазку, используя щетинный ершик. Ружейной смазки должно быть ровно столько, чтобы покрыть канал ствола тонким слоем. Ни в коем случае в стволе не должны образовываться масляные пробки. При соблюдении этих условий пистолет будет готов к стрельбе немедленно, не нуждаясь в предварительной протирке ствола."
 
 #: ../../source/fount/08-miscellaneous.rst:267
 msgid ""
 "Whenever the design of the pistol permits it, always clean the barrel "
 "from the breech end."
-msgstr ""
+msgstr "Во всех случаях, когда позволяет конструкция, ствол следует протирать со стороны казенного среза."
 
 #: ../../source/fount/08-miscellaneous.rst:270
 msgid ""
 "All the foregoing remarks apply to barrels of automatic pistols and "
 "barrels and cylinders of revolvers."
-msgstr ""
+msgstr "Все сказанное относится как к стволам пистолетов, так и к стволам и барабанам револьверов."
 
 #: ../../source/fount/08-miscellaneous.rst:274
 msgid ""
 "Incidentally, nickel fouling due to jacketed bullets does not appear to "
 "exist. If it does, it is so slight as to be of no account."
-msgstr ""
+msgstr "Кстати, непохоже, что загрязнение ствола материалом оболочки пули вообще имеет место. Если такое загрязнение и существует, оно не имеет практического значения."
 
 #: ../../source/fount/08-miscellaneous.rst:278
 msgid ""
@@ -303,7 +303,7 @@ msgid ""
 "a slightly greasy rag all other metal parts, paying particular attention "
 "to the breech face, and in the case of revolvers to the other parts where"
 " fouling is apt to collect."
-msgstr ""
+msgstr "Большая часть работы закончена. Осталось протереть слегка промасленной ветошью все металлические поверхности, уделяя особое внимание казенному срезу ствола, а в случае револьвера и другим местам, где обычно собирается нагар."
 
 #: ../../source/fount/08-miscellaneous.rst:284
 msgid ""
@@ -315,7 +315,7 @@ msgid ""
 "in its box or case, if you have one, may be stored for a long time "
 "without attention. Never store in a holster; the leather is susceptible "
 "to damp and will cause rusting of all metal in contact with it."
-msgstr ""
+msgstr "Если пистолет необходимо подготовить к хранению, очистите и протрите насухо все металлические части, кроме ствола (считаем, что ствол обработан, как описано выше). Затем наложите тонкий слой густой ружейной смазки (проще всего это сделать кисточкой из щетины) и упакуйте пистолет в вощеную бумагу. Проследите при этом, чтобы на металле не осталось следов ваших пальцев. Пистолет, обработанный таким образом, можно хранить долго, не уделяя ему специального внимания (лучше дополнительно положить его в коробку). Никогда не храните пистолет в кобуре — кожа легко впитывает влагу, и все металлические части, находящиеся в контакте с кобурой, заржавеют."
 
 #: ../../source/fount/08-miscellaneous.rst:296
 msgid ""
@@ -333,5 +333,5 @@ msgid ""
 "case, and are only liable to be gummed up from the usual practise of "
 "squirting oil int the interior of the mechanism through every available "
 "aperture."
-msgstr ""
+msgstr "Мы не рекомендуем использовать жидкую ружейную смазку. Нанесенная тонким слоем, она обладает недостаточными защитными свойствами, а нанесенная обильно, загустевает, затрудняя работу движущихся частей. На практике жидкой ружейной смазкой практически всегда злоупотребляют, в результате чего на всех деталях оказывается излишек масла, который не всегда можно удалить перед стрельбой. В результате стрелок, в особенности при высоком темпе стрельбы, оказывается забрызган маслом. Ни пользы, ни удовольствия здесь нет, и лучше без этого обойтись вообще. Смазывать подвижные части, открывающиеся при неполной разборке, удобно густой ружейной смазкой, нанося ее тонким слоем, щетинной кисточкой. Смазку ударно-спускового механизма лучше оставить оружейному мастеру. Ударно-спусковой механизм в обильной смазке не нуждается; напротив, часто страдает от загустения масла, которое многие просто вливают внутрь пистолета через все имеющиеся отверстия."
 

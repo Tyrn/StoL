@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../../source/fount/09-appendix.rst:4
 msgid "Appendix"
-msgstr ""
+msgstr "Приложение"
 
 #: ../../source/fount/09-appendix.rst:6
 msgid "\"Revolving Credit\" System"
-msgstr ""
+msgstr "Система \"оборотного кредита\""
 
 #: ../../source/fount/09-appendix.rst:8
 msgid ""
@@ -33,19 +33,20 @@ msgid ""
 "suit different needs of the requirements of larger or smaller numbers of "
 "men. For greater simplicity, Table I is assumed to provide for a force of"
 " 1000 men."
-msgstr ""
+msgstr "Цифры, приведенные в таблице I, получены на основе наших собственных нужд, но легко могут быть адаптированы к потребностям службы с любой численностью личного состава. Для простоты, мы даем расчет на 1000 человек."
 
 #: ../../source/fount/09-appendix.rst:15
 msgid "Table I. Requirements over Twelve Months"
-msgstr ""
+msgstr "Таблица I. Потребность на двенадцать месяцев
+В"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "Rounds"
-msgstr ""
+msgstr "Патроны"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "To be carried in daily use by each man, 12 rounds"
-msgstr ""
+msgstr "Носимый запас, 12 патронов на человека"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "x1000"
@@ -53,58 +54,58 @@ msgstr ""
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "12,000"
-msgstr ""
+msgstr "12000"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "Practice and training, 36 rounds per man"
-msgstr ""
+msgstr "Огневая подготовка, 36 патронов на человека"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "36,000"
-msgstr ""
+msgstr "36000"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "In reserve, 30 rounds per man"
-msgstr ""
+msgstr "Резерв, 30 патронов на человека"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "30,000"
-msgstr ""
+msgstr "30000"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "78,000"
-msgstr ""
+msgstr "78000"
 
 #: ../../source/fount/09-appendix.rst:24
 msgid ""
 "An initial purchase is made of the total quantity indicated by Table I as"
 " required over a period of twelve months and, for added clarity, we shall"
 " assume that it is on hand at the end of December."
-msgstr ""
+msgstr "Первоначальная закупка делается на основе суммы по таблице I из расчета потребности на двенадцать месяцев. Для ясности, предполагаем, что боеприпасы поставлены в конце декабря."
 
 #: ../../source/fount/09-appendix.rst:29
 msgid "Table II. Disposal of Initial Purchase"
-msgstr ""
+msgstr "Таблица II. Расходование первоначальной поставки"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "*1st January*---"
-msgstr ""
+msgstr "*1 января*---"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "Place to reserve"
-msgstr ""
+msgstr "Резерв"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "Issue for daily use"
-msgstr ""
+msgstr "Выдано для ношения"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "Issue for training and practice"
-msgstr ""
+msgstr "Выдано для огневой подготовки"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "*1st May*---"
-msgstr ""
+msgstr "*1 мая*---"
 
 #: ../../source/fount/09-appendix.rst
 msgid "Withdraw 12,000 issued 1st January"

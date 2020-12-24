@@ -20,23 +20,23 @@ msgstr ""
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:2
 msgid "V. Pistol and Cartridge"
-msgstr ""
+msgstr "V. Пистолет и патроны"
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:4
 msgid "Mechanical defects."
-msgstr ""
+msgstr "Механические дефекты."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:5
 msgid "Cartridge defects."
-msgstr ""
+msgstr "Дефекты патронов."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:6
 msgid "Care of ammunition."
-msgstr ""
+msgstr "Правильное использование боеприпасов."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:7
 msgid "Supplies, current requirements and reserve stocks of ammunition."
-msgstr ""
+msgstr "Требования к боеприпасам, поставки боеприпасов и хранение боеприпасов."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:10
 msgid ""
@@ -46,7 +46,7 @@ msgid ""
 "with them we have nothing to do beyond remarking that it is due to their "
 "existence that many criminals have been brought to justice and the lives "
 "of many policemen have been saved."
-msgstr ""
+msgstr "Содержание этой главы относится исключительно к производителям с высокой и заслуженной репутацией, которой они всегда дорожат. Производителей другого рода немало, но о таких мы лишь заметим, что именно благодаря им многие преступники предстали перед судом, а жизни многих хороших полицейских были спасены."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:19
 msgid ""
@@ -54,14 +54,14 @@ msgid ""
 "state of perfection that, assuming reasonable care in their use, "
 "malfunctions of the former and defects in the latter are of rare "
 "occurrence."
-msgstr ""
+msgstr "Современный пистолет и боеприпасы к нему доведены до такой степени совершенства, что с дефектами производства приходится иметь дело нечасто."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:25
 msgid ""
 "The great majority of malfunctions of the modern pistol are due, not to "
 "faults in design or manufacture, but to ignorance, neglect or rough "
 "handling, accidental or otherwise, on the part of the user."
-msgstr ""
+msgstr "Причиной большей части задержек при стрельбе из современного пистолета являются не недостатки конструкции и не дефекты производства, а невежество, небрежность или грубое обращение, умышленное или неумышленное."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:30
 msgid ""
@@ -69,7 +69,7 @@ msgid ""
 "much of a \"gun-crank\" to be guilty of wilful neglect or rough handling "
 "and to him it is superfluous to recommend that, in case of accident, his "
 "pistol should be promptly overhauled by a competent armourer."
-msgstr ""
+msgstr "Частный владелец хорошего пистолета, как правило, слишком ценит свое оружие, чтобы обращаться с ним грубо или проявлять умышленную небрежность, и такому человеку излишне напоминать, что в случае сильного удара, падения на твердую поверхность и т.п. пистолет следует показать оружейному мастеру."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:37
 msgid ""
@@ -84,14 +84,14 @@ msgid ""
 "everything comes to pieces quite naturally. Men of that kind do not, or "
 "should not, go very far without being recognised for what they are, and "
 "there are suitable and well-established methods of dealing with them."
-msgstr ""
+msgstr "На службе, однако, дело обстоит иначе. Здесь оружие нередко по необходимости подвергается грубому обращению, а случайно уронить пистолет может даже самый аккуратный человек. Если личному составу разъяснить, что подобные случаи не будут рассматриваться как проступки, подлежащие наказанию, исчезнет основное препятствие к поддержанию в исправном состоянии оружия, от которого зависит жизнь этих людей. Мы здесь не говорим ни о тех, кто портит оружие умышленно, ни о гениях, в руках которых все разваливается само собой. Людей такого сорта распознать недолго, и что с ними делать, давно и хорошо известно."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:54
 msgid ""
 "As far as our experience goes, a comparison between the automatic and the"
 " double-action revolver, in respect of their liability to damage, results"
 " in favour of the former."
-msgstr ""
+msgstr "Если сравнивать пистолет и самовзводный револьвер в отношении стойкости к механическим повреждениям, то, по нашему опыту, пистолет имеет преимущество."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:59
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 "should, and it is surprising that manufacturers continue to fit them when"
 " it is a perfectly simple matter to substitute coil springs, which would "
 "be much more reliable."
-msgstr ""
+msgstr "При грубом обращении с револьвером нередко ломается боек, храповой механизм барабана, или нарушается соосность ствола и камор барабана. Последнее обстоятельство создает больше проблем, чем обычно принято думать. Соосность легко может нарушиться при падении револьвера на твердую поверхность, при этом внешние признаки каких-либо повреждений часто отсутствуют. Поэтому считать техническое обслуживание револьвера законченным можно только тогда, когда соосность проверена при помощи специальных калибров. К тому же, листовая пружина, используемая в защелке барабана, часто ломается; непонятно, что мешает производителям использовать для этого спиральную пружину, которая была бы гораздо надежнее."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:76
 msgid ""
@@ -117,13 +117,13 @@ msgid ""
 " such as might be the case with a pistol used by an instructor. "
 "Nevertheless, a fall may damage the hammer and sights or may loosen pins "
 "and screws."
-msgstr ""
+msgstr "Хороший автоматический пистолет гораздо лучше, чем револьвер, переносит падение на твердую поверхность. Немногие известные нам случаи появления трещин в затворе связаны не с падением оружия, а с интенсивным использованием его для ведения беглого огня; такое может случиться, например, с пистолетом, которым пользуется инструктор. Тем не менее, падение может привести к повреждению курка или прицельных приспособлений, или к выпадению шпилек или винтов."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:85
 msgid ""
 "The extractors and ejectors occasionally give trouble, but this is "
 "usually due to wear after very long use."
-msgstr ""
+msgstr "Изредка возникают проблемы с экстракторами и отражателями, как правило, вследствие износа при длительной эксплуатации."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:89
 msgid ""
@@ -132,7 +132,7 @@ msgid ""
 "cent. of the troubles which we used to encounter, and in this connection "
 "we shall relate our own experiences in the care and maintenance of large "
 "numbers of automatic pistols having magazines of the detachable type."
-msgstr ""
+msgstr "Мало что еще можно сказать о повреждениях собственно пистолета. На практике, 90 процентов всех задержек при стрельбе из пистолета связано с состоянием магазина. Здесь мы хотели бы рассказать о нашем опыте эксплуатации большого количества автоматических пистолетов с отъемными магазинами."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:98
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "specially constructed for each essential dimension. The results of these "
 "periodic overhauls have been entirely satisfactory and jambs are now of "
 "rare occurrence."
-msgstr ""
+msgstr "Следует признать, что поначалу мы не обращали большого внимания на магазины и их состояние. Вскоре мы, однако, стали замечать, что часть магазинов начинает ржаветь, а часть забивается табачной крошкой, обломками спичек, разным мусором, одним словом, всем тем, что можно найти в мужских карманах. Мы не стали ждать неприятностей, и обеспечили планомерную разборку и чистку всех 9000 магазинов, имевшихся на вооружении. Ржавчина, вместе с поразительным количеством описанного выше мусора, была удалена, и, что еще более важно, переборка магазинов выявила ряд повреждений, связанных с износом и ударными нагрузками. Единственной разумной политикой было немедленно признать, что, во-первых, магазины находятся в неудовлетворительном состоянии, и, во-вторых, суровые условия службы, которые к этому привели, изменены быть не могут. Стало ясно, что проблема требует систематического подхода, и был установлен порядок, по которому каждый пистолет, вместе с прилагающимися к нему двумя магазинами, раз в шесть месяцев отправлялся на проверку в оружейную мастерскую, независимо от наличия или отсутствия явных дефектов. Согласно заведенному порядку, при этом не только производилось необходимое обслуживание самого пистолета, но и каждый магазин подвергался разборке, чистке, и, при необходимости, воронению, пружина подавателя смазывалась. Корпус, крышка, и, в особенности, загибы боковых стенок магазина подвергались рихтовке, а качество работы проверялось при помощи специально созданного набора калибров для каждого критичного размера. Результаты периодической переборки магазинов оказались совершенно удовлетворительными, и задержки при стрельбе теперь случаются редко."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:132
 msgid ""
@@ -178,7 +178,7 @@ msgid ""
 "necessitate the magazine being kept charged more or less permanently. "
 "Properly treated, there is no reason why a well-made magazine should not "
 "last twenty years."
-msgstr ""
+msgstr "О том, какое значение имеет состояние магазина для безотказности пистолета, здесь сказано достаточно; понятно, что с магазином следует обращаться бережно. Тем, кто использует магазин в качестве отвертки или открывает им пивные бутылки, в трудную минуту некого винить, кроме себя. Если существует какое-либо сомнение в полной исправности магазина, он считается неисправным вплоть до проверки оружейным мастером. После обнаружения и устранения неисправности магазин полностью снаряжается и испытывается стрельбой в предельно быстром темпе. Во избежание скорой осадки пружины подавателя имеет смысл удалять из магазина один-два патрона. Этот совет, разумеется, относится к тому случаю, когда магазин приходится держать снаряженным более или менее постоянно. В заключение заметим, что нет причин, которые могли бы помешать качественно изготовленному и правильно эксплуатируемому магазину прослужить двадцать лет."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:154
 msgid ""
@@ -188,7 +188,7 @@ msgid ""
 "therefore, first to ascertain the period for which ammunition may safely "
 "remain in daily use and then to withdraw it from circulation immediately "
 "the limit of that period has been reached."
-msgstr ""
+msgstr "Не приходится ожидать, что какие-либо боеприпасы могут неопределенно долго выдерживать износ, связанный с их повседневным использованием, что подразумевает не только ношение в любую погоду, но и постоянное заряжание и разряжание оружия. Поэтому необходимо определить срок, в течение которого боеприпасы могут находиться в повседневном использовании, и по истечении этого срока немедленно изымать их из обращения."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:164
 msgid ""
@@ -210,7 +210,7 @@ msgid ""
 "interests of safety. Add now the fact, mentioned already, that the "
 "ammunition is carried in all weathers and we have a set of circumstances "
 "definitely indicative of hard usage."
-msgstr ""
+msgstr "Наши выводы учитывают тяготы полицейской службы в большом городе, службы, продолжающейся двадцать четыре часа в сутки, и которую несет многочисленный личный состав, по необходимости вооруженный пистолетами. По соображениям экономии, часть личного состава вооружена из расчета два пистолета на три человека. В этом случае в течение суток оружие несколько раз возвращается на полицейский участок, а затем выдается людям, заступающим на дежурство. Такие \"передачи\", как мы их называем, происходят не реже трех раз в сутки. По требованиям безопасности, оружие при сдаче разряжается, и, будучи выданным сменщику, тут же заряжается вновь. Но если не говорить о \"передачах\", вызванных необходимостью экономии, то даже и тогда, когда оружие находится в индивидуальном пользовании, его приходится периодически разряжать и вновь заряжать из тех же соображений безопасности. Если же добавить к этому упомянутое ранее ношение в любую погоду, тяжесть условий эксплуатации боеприпасов становится вполне очевидной."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:190
 msgid ""
@@ -220,7 +220,7 @@ msgid ""
 " apparent and work out very steadily at about two rounds per ten "
 "thousand. But for every week thereafter the number of defective rounds "
 "increases with surprising rapidity."
-msgstr ""
+msgstr "Тщательно зафиксированный опыт пятнадцати лет службы показывает, что ожидать безусловной надежности от пистолетных боеприпасов можно на протяжении не более четырех месяцев. По истечении этого срока начинают наблюдаться дефекты, первоначально два дефектных патрона на десять тысяч. При этом с каждой последующей неделей количество дефектных патронов увеличивается с удивительной быстротой."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:199
 msgid ""
@@ -228,7 +228,7 @@ msgid ""
 " to this standard. In point of fact, the ratio of defects is "
 "approximately double that of automatic pistol ammunition. The reasons are"
 " not far to seek."
-msgstr ""
+msgstr "Тот же опыт показывает, что с револьверными патронами дело обстоит гораздо хуже. Количество дефектов, наблюдаемых за тот же период времени, примерно вдвое больше, чем в случае пистолетных патронов. Причины этого достаточно очевидны."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:205
 msgid ""
@@ -243,7 +243,7 @@ msgid ""
 " carrying soft lead bullets. While there may be no noticeable deformation"
 " of the latter, they are more liable to be jarred loose from the crimping"
 " and that is the prelude to other troubles."
-msgstr ""
+msgstr "При заряжании и разряжании револьверов каждый патрон надо подержать в руках; в случае пистолета, где патроны содержатся в коробчатом магазине, это не совсем так. Здесь грубому обращению, в основном, подвергается сам магазин. Также, при всей возможной аккуратности, патроны время от времени падают на пол, вполне вероятно, на бетонный пол полицейского участка. И в этом случае, риск для пистолетных патронов, с их оболочечными пулями, меньше, чем для револьверных, особенно крупного калибра, с мягкой свинцовой пулей. Деформация при этом может быть малозаметной, но пуля расшатывается, что в конце концов может привести ко многим неприятностям."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:222
 msgid ""
@@ -257,7 +257,7 @@ msgid ""
 "in the production of reliable ammunition. It is only fair to add that "
 "defects in the automatic ammunition put out by makers of repute are few "
 "and far between."
-msgstr ""
+msgstr "Сказанное можно отнести к принципиальным преимуществам пистолетных патронов перед револьверными; кроме того, тщательные измерения партий патронов склоняют нас к мысли, что качество изготовления револьверных патронов в среднем хуже. Пистолетный патрон по необходимости должен жестко соответствовать стандарту, иначе нельзя ожидать надежной работы автоматики. И действительно, дефекты пистолетных патронов, выпущенных известными производителями, встречаются очень редко."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:237
 msgid ""
@@ -266,7 +266,7 @@ msgid ""
 "which is obliged to have a large amount in constant use. In some cases, "
 "too, complications arise from climatic conditions and distance from the "
 "source of supplies."
-msgstr ""
+msgstr "Проблема срока службы боеприпасов заслуживает самого пристального внимания, тем более, когда речь идет о службе, где приходится иметь дело с большим количеством патронов одновременно. Источниками проблем бывают, в том числе, климатические условия и географическая удаленность поставщиков."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:244
 msgid ""
@@ -279,23 +279,23 @@ msgid ""
 "tables given in the :ref:`Appendix <appendix>` will convey our meaning "
 "more clearly, but we may state here that two basic conditions influence "
 "their construction, viz.:---"
-msgstr ""
+msgstr "Боеприпасы отлично сохраняются на протяжении ряда лет, при условии, что их не извлекают из коробок и цинков, а условия хранения отвечают здравому смыслу. Тем не менее, мы предпочитаем сокращать общий срок хранения боеприпасов, используя систему, которую можно назвать \"оборотным кредитом\". Таблицы, данные в :ref:`Приложении <appendix>`, содержат конкретные цифры, здесь же мы приведем два принципа:"
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:257
 msgid ""
 "The undesirability of carrying ammunition in daily use for more than four"
 " months."
-msgstr ""
+msgstr "Патроны не должны находится в повседневном использовании более четырех месяцев."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:259
 msgid "The undesirability of keeping ammunition in stock longer than two years."
-msgstr ""
+msgstr "Патроны не должны храниться более двух лет."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:262
 msgid ""
 "From this as a starting point, quantities required on all counts can be "
 "estimated."
-msgstr ""
+msgstr "Следуя этим принципам, нетрудно рассчитать потребность в боеприпасах."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:265
 msgid ""
@@ -308,7 +308,7 @@ msgid ""
 "that deterioration or, more important still, the reliability of the "
 "primers. We do not waste first-class ammunition on practice and training "
 "shoots, but use only that which we consider might be no longer reliable."
-msgstr ""
+msgstr "Используя систему \"оборотного кредита\", мы избавляемся от ряда проблем, с которыми пришлось бы иметь дело в случае длительного хранения. Имея пополняемый запас не более, чем на два года, мы можем не беспокоиться о таких вещах, как сезонное растрескивание и другие виды деградации латунных гильз, истечение срока годности бездымного пороха и связанное с этим повышение давления в канале ствола, или, что еще более важно, истечение срока годности капсюлей. Патроны, жизненный цикл которых в системе \"оборотного кредита\" истекает, используются для тренировок."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:279
 msgid ""
@@ -321,21 +321,21 @@ msgid ""
 "that we are not quite sure of this, but while there is any doubt in the "
 "matter we prefer to take no more risks than we need, and this aspect is "
 "fully taken care of by the \"revolving credit.\""
-msgstr ""
+msgstr "Проблема надежности капсюлей заслуживает комментария. Мы имеем в виду современный неоржавляющий капсюль. Не нужно объяснять ценность этого капсюля при любых обстоятельствах, и особенно, когда невозможно почистить оружие сразу после стрельбы. Однако, вплоть до сегодняшнего дня, создается впечатление, что в неблагоприятных климатических условиях такой капсюль хранится не так долго, как старый оржавляющий капсюль. Мы признаем, что полной уверенности в этом у нас нет, но пока есть место для сомнения, мы предпочитаем рисковать не больше, чем сугубо необходимо. Система \"оборотного кредита\" позволяет не беспокоиться и о капсюлях."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:293
 msgid ""
 "We think it will be helpful if our system of dealing with the ammunition "
 "supply is closely linked with the armoury records which should be kept in"
 " respect of both ammunition and weapons."
-msgstr ""
+msgstr "Мы полагаем, что архивные записи, посвященные боеприпасам, должны вестись вместе с записями оружейного мастера, в которых должно быть отражено движение и состояние не только оружия, но и боеприпасов."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:298
 msgid ""
 "Practice and training courses are invaluable in bringing to light any "
 "defective ammunition or pistols, which should be immediately withdrawn "
 "and sent to the armoury for examination."
-msgstr ""
+msgstr "Смысл тренировочных занятий состоит не только в обучении персонала; в процессе этих занятий немедленно выявляются дефекты как оружия, так и боеприпасов. И то, и другое, немедленно передается оружейному мастеру для исследования."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:303
 msgid ""
@@ -346,7 +346,7 @@ msgid ""
 "attributed and actual causes of the defects (sometimes these differ "
 "widely), the repairs effected, the date returned to service and other "
 "appropriate data."
-msgstr ""
+msgstr "Если оказывается, что проблемы с боеприпасами связаны не с условиями эксплуатации, но с производственными дефектами, необходимо немедленно связаться с производителем. Претензии при этом должны предъявляться исключительно в письменном виде. Что же касается пистолетов, на каждый из них должен быть заведен формуляр; в формуляре должны быть указаны как предполагаемые, так и действительные причины любых отказов (иногда они очень сильно отличаются), проведенные ремонтные работы, когда пистолет был возвращен на службу, и другие замечания."
 
 #: ../../source/fount/05-pistol-and-cartridge.rst:313
 msgid ""
@@ -354,5 +354,5 @@ msgid ""
 "it is more than justified by the general efficiency which results and it "
 "sinks into insignificance when it is remembered what that efficiency may "
 "mean to men whose lives would otherwise be needlessly endangered."
-msgstr ""
+msgstr "Бесспорно, что все эти меры предполагают немалое количество бумажной работы. Это, однако, благодарный труд, поскольку год за годом он спасает жизни наших сотрудников."
 
