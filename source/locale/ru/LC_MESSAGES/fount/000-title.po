@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/fount/000-title.rst:2
 msgid "Title"
-msgstr "Книга"
+msgstr "📖"
 
 #: ../../source/fount/000-title.rst:4
 msgid "**SHOOTING TO LIVE WITH THE ONE-HAND GUN**"
