@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/fount/03-training-preliminary.rst:2
 msgid "III. Training: Preliminary Course for Recruits"
-msgstr ""
+msgstr "III. Подготовка: вводный курс для новобранцев"
 
 #: ../../source/fount/03-training-preliminary.rst:4
 msgid ""
@@ -29,7 +29,7 @@ msgid ""
 "necessitates the introduction of special features, and the system "
 "consequently differs considerably from that in use by the American "
 "forces, who are armed with this particular weapon."
-msgstr ""
+msgstr "В нашем курсе мы имеем в виду, главным образом, модель Colt M1911A1. Особенностью курса является отказ от использования предохранителя, вследствие чего система подготовки значительно отличается от принятой в американской армии, имеющей на вооружение этот же пистолет."
 
 #: ../../source/fount/03-training-preliminary.rst:12
 msgid ""
@@ -47,7 +47,7 @@ msgid ""
 "who wishes to make use of this chapter has only to disregard, therefore, "
 "anything which obviously relates to the mechanics of the Colt automatic. "
 "He will have no difficulty in doing that."
-msgstr ""
+msgstr "Можно предположить, что было бы правильнее иметь два отдельных курса, для пистолета и револьвера соответственно, однако на самом деле это означало бы покрытие одного и того же материала дважды. Методы обучения, которые даются в этой главе, приложимы в равной мере к любому пистолету или револьверу; читателю лишь необходимо различать два аспекта нашего курса. Один из аспектов касается конструктивных особенностей модели Colt M1911A1, и при необходимости может быть адаптирован к любому другому пистолету. Другой аспект касается исключительно приемов стрельбы, и приложим, без каких-либо изменений, к любому револьверу или пистолету, начиная с кремневого. Стрелку из револьвера, при чтении этой главы, следует лишь опускать детали, очевидным образом относящиеся к устройству пистолета. Это совсем просто."
 
 #: ../../source/fount/03-training-preliminary.rst:33
 msgid ""
@@ -60,7 +60,7 @@ msgid ""
 "necessary time for its use. Speed with the double-action is attainable "
 "more easily than is generally thought, but only by training the trigger-"
 "finger by means of continual snapping practice."
-msgstr ""
+msgstr "Устройство револьвера настолько просто и общеизвестно, что, на наш взгляд, нет нужды его описывать. Мы хотели бы подчеркнуть наши предпочтения, а именно: при стрельбе на короткой дистанции, хватка должна быть насколько возможно плотной, с выпрямленным большим пальцем, стрельба должна производиться сериями, исключительно самовзводом; на длинной дистанции следует взводить курок пальцем, если позволяет время. Добиться высокого темпа стрельбы при самовзводе легче, чем принято думать, однако тут необходима постоянная практика."
 
 #: ../../source/fount/03-training-preliminary.rst:46
 msgid ""
@@ -82,26 +82,26 @@ msgid ""
 " and firing a round already in the breech. It should be shown, too, that "
 "the first method (with the breech empty) eliminates the fumbling and "
 "uncertainty inherent in the use of the safety-catch."
-msgstr ""
+msgstr "Для начала инструктору следует продемонстрировать пистолет. Для этого нужно извлечь магазин, несколько раз оттянуть и отпустить затвор, а затем спустить курок. Затем следует объяснить и показать, как снаряжать, разряжать и вставлять магазин. Подробно обо всех этих операциях ниже; но именно теперь следует объяснить, почему предохранитель на левой стороне пистолета всегда опущен, «снят». При ношении пистолета, снаряженный магазин должен быть вставлен, но патрон при этом никогда не должен быть дослан в патронник. Инструктору следует показать, что при необходимости открыть огонь достаточно лишь дослать патрон, как описано в параграфе 2 (c). Следует продемонстрировать, насколько быстро можно извлечь оружие, дослать патрон и произвести выстрел; показать, что это можно сделать даже быстрее, чем опуская предохранитель и производя выстрел при заранее досланном патроне. Необходимо также показать, что первый метод (при пустом патроннике) исключает специфическую неуклюжесть и неуверенность, которых трудно избежать при работе с флажком предохранителя."
 
 #: ../../source/fount/03-training-preliminary.rst:72
 msgid "With this preface, all is now ready for the course to commence."
-msgstr ""
+msgstr "Надеемся, этого предисловия достаточно; начинаем наш курс."
 
 #: ../../source/fount/03-training-preliminary.rst:76
 msgid "1. One Hour's \"Dry\" Practice"
-msgstr ""
+msgstr "Работа без патрона, один час"
 
 #: ../../source/fount/03-training-preliminary.rst:78
 msgid ""
 "On taking the pistol in the hand, we recommend, as an aid to accurate "
 "pointing, that the thumb be fully extended and pointing forward in the "
 "same plane as the pistol barrel (Fig. 1)."
-msgstr ""
+msgstr "Хватка. Мы рекомендуем захватывать рукоятку пистолета так, чтобы большой палец был вытянут вперед, параллельно оси канала ствола. Это облегчает прицеливание (рис. 1)."
 
 #: ../../source/fount/03-training-preliminary.rst:85
 msgid "Fig. 1.---The Correct Grip."
-msgstr ""
+msgstr "Рис. 1. Правильная хватка."
 
 #: ../../source/fount/03-training-preliminary.rst:87
 msgid ""
@@ -109,7 +109,7 @@ msgid ""
 "twenty or thirty pounds, pistol arm straight, rigid and across the body "
 "(Fig. 2). Bend the hand slightly to the right, to bring the pistol "
 "exactly in line with the vertical centre-line of the body (Fig. 3)."
-msgstr ""
+msgstr "Стоять следует, развернувшись корпусом к мишени; хватка должна быть плотной, как если бы пистолет весил двадцать или тридцать фунтов, правая рука жестко распрямлена, пистолет в плоскости симметрии тела (рис. 2). Кисть руки слегка отвернута вправо, чтобы ось канала ствола совпадала с плоскостью симметрии тела (рис. 3)."
 
 #: ../../source/fount/03-training-preliminary.rst:94
 msgid ""
@@ -119,19 +119,19 @@ msgid ""
 "eyes are to be kept open and the recruit simply sees the target "
 "surrounding his pistol, making no attempt to look at or line up the "
 "sights, or to let the master-eye control the aim."
-msgstr ""
+msgstr "За счет разворота в плечевом суставе (помните, что рука жестко выпрямлена) рука поднимается вдоль плоскости симметрии тела до тех пор, пока оружие не выйдет на метку в центре мишени (рис. 4). Оба глаза при этом должны быть открыты; курсант просто видит пистолет на фоне мишени; он не должен позволять ведущему глазу контролировать прицеливание; ему не следует обращать внимание на прицельные приспособления и пытаться выровнять мушку."
 
 #: ../../source/fount/03-training-preliminary.rst:103
 msgid ""
 "Immediately the aiming mark is covered, pull the trigger and lower the "
 "pistol to the position shown in Fig. 3 (the \"ready\" position)."
-msgstr ""
+msgstr "Как только пистолет вышел на метку в центре мишени, следует нажать на спуск и опустить пистолет, как показано на рис. 3 (положение «готов»)."
 
 #: ../../source/fount/03-training-preliminary.rst:108
 #: ../../source/fount/03-training-preliminary.rst:310
 #: ../../source/fount/03-training-preliminary.rst:376
 msgid "Notes"
-msgstr ""
+msgstr "Примечания"
 
 #: ../../source/fount/03-training-preliminary.rst:110
 msgid ""
@@ -143,29 +143,29 @@ msgid ""
 " :ref:`experiment <i_experiment>` of Chapter I. The mastery of this "
 "combination is all that is required for effective aiming at short range, "
 "a point which will emerge more clearly,"
-msgstr ""
+msgstr "Пункты a, b, c и d вместе с рис. 4 определяют основную задачу — исключить сознательный контроль ведущего глаза за процессом производства выстрела. Вместо этого, направление выстрела контролируется корпусом, развернутым в направлении мишени, рукой, приведенной к плоскости симметрии тела, и кистью, отвернутой вправо — бессознательно используемыми элементами эксперимента, описанного в главе I. Для эффективного прицеливания на короткой дистанции не нужно ничего, кроме освоения этой комбинации;"
 
 #: ../../source/fount/03-training-preliminary.rst:123
 msgid "Fig. 2.---Preliminary to Ready Position."
-msgstr ""
+msgstr "Рис. 2. Предварительное положение."
 
 #: ../../source/fount/03-training-preliminary.rst:127
 msgid "Fig. 3.---Ready Position."
-msgstr ""
+msgstr "Рис. 3. Положение \"готов\"."
 
 #: ../../source/fount/03-training-preliminary.rst:131
 msgid "Fig. 4.---Firing, Arm Fully Extended."
-msgstr ""
+msgstr "Рис. 4. Стрельба с вытянутой руки."
 
 #: ../../source/fount/03-training-preliminary.rst:133
 msgid ""
 "perhaps, in the next chapter in discussing shooting with the pistol held "
 "well below the line of sight."
-msgstr ""
+msgstr "этот принцип будет использоваться и далее, когда в следующей главе пойдет речь о стрельбе с удержанием пистолета много ниже линии взгляда."
 
 #: ../../source/fount/03-training-preliminary.rst:136
 msgid "Trembling due to the firm grip will *not* cause a wild shot."
-msgstr ""
+msgstr "Заметим, что колебания оружия, связанные с очень плотной хваткой, не приведут к промаху."
 
 #: ../../source/fount/03-training-preliminary.rst:139
 msgid ""
@@ -173,7 +173,7 @@ msgid ""
 "alone but by increasing pressure of the whole hand. The combination of "
 "the very firm grip and the pressure of the fully-extended thumb are of "
 "great assistance in the proper release of the trigger."
-msgstr ""
+msgstr "Спуск курка производится решительным движением указательного пальца; хватка в этот момент должна стать особенно плотной. Сочетание очень плотной хватки с полностью выпрямленным большим пальцем сильно облегчает правильный спуск курка."
 
 #: ../../source/fount/03-training-preliminary.rst:146
 msgid ""
@@ -181,11 +181,11 @@ msgid ""
 " raising the pistol from the \"ready\" (Fig. 3) to the firing position "
 "(Fig. 4) and it counteracts the tendency to raise the pistol higher than "
 "the point of aim."
-msgstr ""
+msgstr "Плотная хватка также полезна в двух отношениях: во-первых, переход из положения \"готов\" (рис. 3) в положение \"огонь\" (рис. 4) происходит уверенно и плавно; также рука гораздо реже поднимается выше линии прицеливания."
 
 #: ../../source/fount/03-training-preliminary.rst:153
 msgid "2. One Hour's Practice in Safety Precautions, Loading and Unloading"
-msgstr ""
+msgstr "2. Меры безопасности, заряжание и разряжание, один час"
 
 #: ../../source/fount/03-training-preliminary.rst:155
 msgid ""
@@ -198,7 +198,7 @@ msgid ""
 " the right hand and eject the cartridges one by one by pressure of the "
 "right thumb on their bases. The cartridges should be caught in the left "
 "hand and on no account should they be allowed to drop on the ground."
-msgstr ""
+msgstr "Инструктор показывает, как правильно снаряжать и разряжать магазин. При снаряжении очередной патрон следует досылать, отжимая подаватель или верхний патрон вниз, продвигая затем очередной патрон назад под загибами боковых стенок магазина. Проталкивать патроны сверху вниз сквозь загибы нельзя, так как это неизбежно приведет к деформации магазина. Чтобы разрядить магазин, возьмите его в правую руку и выталкивайте патроны вперед по одному большим пальцем. Левой рукой при этом необходимо ловить патроны, ни в коем случае не допуская их падения на пол."
 
 #: ../../source/fount/03-training-preliminary.rst:170
 msgid ""
@@ -206,7 +206,7 @@ msgid ""
 "that it is locked in place, push up, with the left thumb, on the base "
 "plate of the magazine. Relax the pressure, and it will be obvious by "
 "touch whether the magazine is locked."
-msgstr ""
+msgstr "Возьмите пистолет в правую руку, как показано на рис. 5. Вставьте снаряженный магазин. Чтобы убедиться, что магазин дослан до конца, подтолкните его вверх и отпустите; зафиксирован магазин или нет, будет очевидно на ощупь."
 
 #: ../../source/fount/03-training-preliminary.rst:176
 msgid ""
@@ -218,7 +218,7 @@ msgid ""
 "breech the topmost cartridge of the magazine, the pistol pointing to the "
 "ground meanwhile (Fig 8). Turn the hand to the \"ready\" position (Fig. "
 "3), the pistol being now cocked and ready for action."
-msgstr ""
+msgstr "Чтобы зарядить пистолет, поверните его, как показано на рис. 6. Плотно ухватите затвор большим и указательным пальцами левой руки. Энергичным движением правой руки толкайте пистолет вперед до тех пор, пока затвор не откроется полностью (рис. 7), после чего немедленно отпустите затвор. Двигаясь вперед, затвор захватывает из магазина верхний патрон и досылает его в патронник; пистолет в это время направлен вниз и вперед (рис. 8). Поверните руку так, чтобы оказаться в позиции «готов» (рис. 3). Курок в результате действия затвора уже взведен, и пистолет готов к открытию огня."
 
 #: ../../source/fount/03-training-preliminary.rst:191
 msgid "Fig. 5.---Inserting Magazine."
