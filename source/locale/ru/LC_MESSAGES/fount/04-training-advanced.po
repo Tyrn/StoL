@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/fount/04-training-advanced.rst:2
 msgid "IV. Training: Advanced Methods"
-msgstr ""
+msgstr "IV. Углубленный курс огневой подготовки"
 
 #: ../../source/fount/04-training-advanced.rst:4
 msgid ""
@@ -29,7 +29,7 @@ msgid ""
 " a pistol there is one more thing for him to learn. This is shooting from"
 " what, for want of a better term, we call the \"three-quarter hip\" "
 "position illustrated in Fig. 12."
-msgstr ""
+msgstr "Глава III посвящена предварительной подготовке; но прежде чем быть выпущенным в мир в качестве квалифицированного стрелка из пистолета, курсанту предстоит еще кое-что изучить. Речь идет о том, что мы, за неимением лучшего термина, называем стрельбой из положения \"с бедра в три четверти оборота\", см. рис. 12."
 
 #: ../../source/fount/04-training-advanced.rst:12
 msgid ""
@@ -37,7 +37,7 @@ msgid ""
 "chapter when describing the circumstances under which shooting affrays "
 "are likely to take place. We indicate there that in moments of stress and"
 " haste men are apt to fire with a bent arm."
-msgstr ""
+msgstr "Условия, для которых было разработано это положение, обсуждались в главе I, где описаны обстоятельства, при которых обыкновенно происходят перестрелки. Мы писали, что в напряженной обстановке и при недостатке времени, человек склонен стрелять, не распрямляя руки в локте."
 
 #: ../../source/fount/04-training-advanced.rst:18
 msgid ""
@@ -45,7 +45,7 @@ msgid ""
 "examination shows also that the firer is facing his adversary squarely, "
 "has one foot forward (it does not matter which), and that he is crouching"
 " slightly."
-msgstr ""
+msgstr "На рис. 12 изображено как раз такое положение. Можно видеть также, что стрелок стоит слегка пригнувшись, развернут корпусом в сторону противника, а одна нога (неважно какая, на самом деле) выдвинута вперед."
 
 #: ../../source/fount/04-training-advanced.rst:24
 msgid ""
@@ -54,7 +54,7 @@ msgid ""
 " three shots, but *quickly*, at a distance of 3 yards. If he succeeds in "
 "making nothing worse than a 6-inch group, he should repeat the practice "
 "at 4 yards."
-msgstr ""
+msgstr "Из этого положения — рука с оружием в плоскости симметрии тела, кисть отвернута вправо, как и ранее — отстреливается серия из двух или трех выстрелов, как можно быстрее, на дистанции три ярда. Если пробоины укладываются в круг диаметром не более шести дюймов, упражнение повторяется на дистанции четыре ярда."
 
 #: ../../source/fount/04-training-advanced.rst:31
 msgid ""
@@ -63,17 +63,17 @@ msgid ""
 "instinctive at close quarters in a hurry. The square stance, with one "
 "foot forward, is precisely the attitude in which the recruit is most "
 "likely to be if he had to fire suddenly while he was on the move."
-msgstr ""
+msgstr "Инструктору следует разъяснить, почему все делается так, а не иначе. Рука согнута в локте, так как это инстинктивная позиция, принимаемая в спешке и на предельно короткой дистанции. Корпус окажется развернут к противнику, а одна нога впереди другой, если огонь пришлось открыть на бегу."
 
 #: ../../source/fount/04-training-advanced.rst:41
 msgid "Fig. 12.---\"Three-quarter Hip\" Position."
-msgstr ""
+msgstr "Рис. 12. \"С бедра в три четверти оборота\"."
 
 #: ../../source/fount/04-training-advanced.rst:43
 msgid ""
 "The \"crouch,\" besides being instinctive when expecting to be fired at, "
 "merits a little further explanation."
-msgstr ""
+msgstr "Положение \"пригнувшись\", помимо того, что является естественным для человека, который ожидает, что в него будут стрелять, заслуживает особого комментария."
 
 #: ../../source/fount/04-training-advanced.rst:47
 msgid ""
@@ -97,7 +97,7 @@ msgid ""
 "swift traverse of the alley. Since that time, men trained in the methods "
 "of this book have not only been permitted to crouch but have been "
 "encouraged to do so."
-msgstr ""
+msgstr "Оно было введено в наш курс после инцидента, имевшего место в 1927 году. Группе захвата, состоявшей из 15 человек, необходимо было незадолго до рассвета проникнуть в дом, занятый бандой преступников. Единственным подходом к дому была очень узкая улочка, и преступники в любой момент могли открыть огонь по приближающейся группе захвата. Возвращаясь по этой улочке при свете дня, по завершении операции, члены группы захвата, к немалому своему удивлению, обнаружили, что поперек дороги, примерно на уровне лица, в нескольких местах натянута толстая проволока. Всем пришлось нагибаться, чтобы пройти под проволокой, при том, что в начале операции, в темноте, никто на проволоку не наткнулся, равно как и никто не мог припомнить себя пригибающимся. Немедленно было проведено расследование, которое показало, что проволока была натянута более недели назад, без всякого злого умысла, с целью просушки мотков шерстяной пряжи после окраски. Таким образом, хотя расследование и не подтвердило возникших поначалу подозрений, оно убедительно показало, что каждый член группы захвата, ожидавший, что в любой момент по нему могут открыть огонь, сильно пригибался на бегу, приближаясь к дому, занятому преступниками. С того времени персоналу, проходившему подготовку по методам, описанным в этой книге, не только не запрещалось пригибаться, но и настойчиво рекомендовалось поступать именно так."
 
 #: ../../source/fount/04-training-advanced.rst:75
 msgid ""
@@ -105,7 +105,7 @@ msgid ""
 "successfully passed is 50 per cent. of hits anywhere on the man-sized "
 "targets employed. Time has shown this to be adequate for the purpose in "
 "view."
-msgstr ""
+msgstr "Курсант считается успешно прошедшим курс, если при выполнении любого упражнения он в состоянии обеспечить не менее 50 процентов попаданий в описанную нами ростовую мишень. Практика показала, что для наших целей этого достаточно."
 
 #: ../../source/fount/04-training-advanced.rst:81
 msgid ""
@@ -116,14 +116,14 @@ msgid ""
 "only reward is the resultant confidence in himself and the satisfaction "
 "of knowing that if he has to \"shoot it out\" with a pistol he will be a "
 "better man than his opponent."
-msgstr ""
+msgstr "Мы уже говорили о том, что не одобряем наград, кубков, значков, званий и тому подобного. Никому из прошедших наш курс мы не присваиваем званий типа \"отличный стрелок\", независимо от того, насколько более 50 процентов попаданий тот в состоянии обеспечить. Единственной наградой человеку, выполняющему наш квалификационный норматив, будет знание того, что если дело дойдет до стрельбы, он окажется сильнее своего противника."
 
 #: ../../source/fount/04-training-advanced.rst:91
 msgid ""
 "Similarly, we have a dislike of \"team shoots.\" We feel that the "
 "ammunition would be much more usefully employed in giving additional "
 "practice under instruction."
-msgstr ""
+msgstr "Равным образом мы не одобряем и командных соревнований. Мы полагаем, что боеприпасы можно потратить с большей пользой для дополнительной подготовки под руководством инструктора."
 
 #: ../../source/fount/04-training-advanced.rst:98
 msgid ""
@@ -136,7 +136,7 @@ msgid ""
 "variations on this theme, and current incidents, more especially in the "
 "nature of actual happenings to men of their particular service, often "
 "provide valuable suggestions."
-msgstr ""
+msgstr "Проводя углубленный курс огневой подготовки, мы отказываемся от использования неподвижных мишеней в пользу самых разнообразных подвижных мишеней. Это будут мишени приближающиеся, удаляющиеся, появляющиеся и движущиеся по фронту, все в натуральную величину. Движущиеся по фронту мишени могут двигаться под прямым углом или наискось. Руководителям стрельб не составит труда создавать разнообразные импровизации на эту тему; к тому же с пользой для дела можно имитировать и реальные инциденты."
 
 #: ../../source/fount/04-training-advanced.rst:111
 msgid ""
@@ -146,7 +146,7 @@ msgid ""
 "and agility, qualities which to the policeman at any rate are every bit "
 "as necessary in the circumstances which are so often encountered in "
 "shooting affrays."
-msgstr ""
+msgstr "Опишем полезное упражнение, всегда дававшее прекрасные результаты. Оно разработано как испытание не только навыков стрельбы из пистолета в сложных условиях, но и физической формы и проворства; то и другое в равной степени важно в боевой обстановке."
 
 #: ../../source/fount/04-training-advanced.rst:120
 msgid ""
@@ -159,30 +159,30 @@ msgid ""
 " after the other, and at each he fires a \"burst\" of three shots. The "
 "targets are exposed for no longer than it takes to fire three shots at "
 "the highest possible speed."
-msgstr ""
+msgstr "Это упражнение, которое мы называем \"Преследование\", начинается с полосы препятствий. Курсант должен перепрыгнуть сухой ров, перейти ров с водой по доске, проползти через трубу, подвешенную на некоторой высоте над поверхностью земли, подняться по канату и по лестнице, перелезть через стену и в заключение сделать рывок на 100 ярдов, заканчивающийся в четырех ярдах от мишеней. Две подвижные мишени появляются без предупреждения, одна за другой, и по каждой отстреливается серия из трех выстрелов. Мишени появляются на короткое время, достаточное только для того, чтобы произвести три выстрела в самом высоком темпе."
 
 #: ../../source/fount/04-training-advanced.rst:133
 msgid ""
 "Yet another practice, a \"mystery shoot,\" is described in the chapter "
 "entitled \"A Practical Pistol Range.\""
-msgstr ""
+msgstr "Другое упражнение, \"Сюрприз\", описано в главе \"Тир для практической стрельбы из пистолета\"."
 
 #: ../../source/fount/04-training-advanced.rst:137
 msgid ""
 "In all practices at surprise targets, opportunity must be found for the "
 "performance of two very essential operations. In order of importance, "
 "these are:---"
-msgstr ""
+msgstr "Стрельба по появляющимся мишеням требует освоения двух технических действий, в порядке важности:"
 
 #: ../../source/fount/04-training-advanced.rst:142
 msgid "Making safe after firing only a portion of the contents of the magazine."
-msgstr ""
+msgstr "Приведение оружия в безопасное состояние после отстрела части магазина."
 
 #: ../../source/fount/04-training-advanced.rst:144
 msgid ""
 "Inserting a second magazine after totally expending the contents of the "
 "first and continuing to fire without delay."
-msgstr ""
+msgstr "Замена пустого магазина и продолжение стрельбы без задержки."
 
 #: ../../source/fount/04-training-advanced.rst:148
 msgid ""
@@ -192,7 +192,7 @@ msgid ""
 " live round from the breech, work the slide back and forth several times "
 "and finally pull the trigger, all as described in Chapter III "
 "(:ref:`Figs. 9 and 10 <iii_fig9>`)."
-msgstr ""
+msgstr "В первом случае, после двух выстрелов при полностью снаряженном магазине, инструктор командует \"прекратить огонь\". Курсант принимает положение \"готов\", извлекает магазин, выбрасывает патрон из патронника, оттягивает и отпускает затвор несколько раз, а затем спускает курок (:ref:`рис. 9 и 10 <iii_fig9>`)."
 
 #: ../../source/fount/04-training-advanced.rst:156
 msgid ""
@@ -203,7 +203,7 @@ msgid ""
 "releasing the slide. The slide flies forward, taking a cartridge into the"
 " breech, and the shooter resumes the \"ready\" position by bending his "
 "hand to the right and awaits the appearance of the next target."
-msgstr ""
+msgstr "Во втором случае, как только магазин опустел, курсант принимает положение \"готов\", извлекает магазин, вставляет снаряженный магазин и досылает патрон, либо опуская затворную задержку большим пальцем, либо снимая затвор с затворной задержки, слегка оттянув его назад и отпустив. Повернув кисть руки в вертикальное положение, курсант вновь принимает положение \"готов\" и ожидает появления очередной мишени."
 
 #: ../../source/fount/04-training-advanced.rst:166
 msgid ""
@@ -213,7 +213,7 @@ msgid ""
 "before doing so this will be perhaps an opportune moment to call the "
 "attention of instructors to several points which will be of assistance in"
 " getting results."
-msgstr ""
+msgstr "Первоначально стрельба по появляющимся мишеням выполняется из ранее описанного положения при полностью распрямленной руке, в дальнейшем - из положения \"с бедра в три четверти оборота\". В дальнейшем мы опишем еще две изготовки, применяемые при стрельбе на короткой дистанции, но сначала мы бы хотели обратить внимание инструкторов на некоторые методические приемы, способствующие достижению высоких результатов."
 
 #: ../../source/fount/04-training-advanced.rst:175
 msgid ""
@@ -223,7 +223,7 @@ msgid ""
 "with no perceptible interval, the men may continue to stand in the firing"
 " position. Otherwise they should come down to the \"ready\" again after "
 "each shot or \"burst\" while awaiting the appearance of the next target."
-msgstr ""
+msgstr "При стрельбе по появляющимся мишеням курсанту не разрешается принимать изготовку для стрельбы заранее. В момент появления первой мишени курсант должен находится в положении \"готов\". Если последующие мишени появляются без заметных перерывов, сохранять изготовку для стрельбы разрешается, но если очередная мишень сразу не появилась, курсант принимает положение \"готов\" после производства очередного выстрела (отстрела серии), вплоть до появления следующей мишени."
 
 #: ../../source/fount/04-training-advanced.rst:185
 msgid ""
@@ -234,7 +234,7 @@ msgid ""
 "does not matter how it is done so long as the firer faces each fresh "
 "target squarely and is thus enabled to retain the pistol in its original "
 "position, *i.e.* in alignment with the vertical centre-line of the body."
-msgstr ""
+msgstr "Мы уже говорили о том, что при стрельбе корпус должен быть развернут в сторону мишени. Это означает, что перенос огня с мишени на мишень осуществляется корпусом. Разворот корпуса производится ногами, возможно, даже в прыжке, если необходимый угол поворота велик. Неважно, каким способом осуществляется поворот, если в каждый данный момент корпус стрелка развернут в сторону очередной мишени, так что пистолет остается в правильном положении - в плоскости симметрии тела."
 
 #: ../../source/fount/04-training-advanced.rst:196
 msgid ""
@@ -249,21 +249,21 @@ msgid ""
 " out that, distance and speed of target being as stated, a bullet "
 "travelling at eight hundred feet a second would strike only about three-"
 "quarters of an inch behind the point of aim."
-msgstr ""
+msgstr "В процессе обучения стрельбе по движущейся по фронту мишени (\"бегущий человек\") скоро выясняется, что 90 процентов всех промахов связано с чрезмерным упреждением. Эта ошибка проявляется даже на дистанции 4 ярда и при скорости бега мишени 3 мили в час. Охотники, которым приходится стрелять по бегущей и летящей дичи, могли бы много рассказать о выборе правильного упреждения, но мы ввязываться в дискуссию не будем. Наша цель состоит в том, чтобы помочь инструктору исправлять ошибки курсантов, и мы лишь заметим, что при упомянутых дистанции стрельбы и скорости мишени пуля, летящая со скоростью 800 футов в секунду, отстанет от точки прицеливания примерно на три четверти дюйма."
 
 #: ../../source/fount/04-training-advanced.rst:212
 msgid ""
 "We now turn to the two other methods of close-quarters shooting "
 "previously referred to. These are, respectively:---"
-msgstr ""
+msgstr "Рассмотрим теперь еще две изготовки для стрельбы на короткой дистанции, которые мы уже упомянули выше, а именно, изготовку \"с бедра\" (рис. 13) и изготовку \"с бедра в четверть оборота\" (рис. 14)."
 
 #: ../../source/fount/04-training-advanced.rst:218
 msgid "Fig. 13.---\"Half-Hip\" Position."
-msgstr ""
+msgstr "Рис. 13. \"С бедра\"."
 
 #: ../../source/fount/04-training-advanced.rst:222
 msgid "Fig. 14.---\"Quarter\" or \"Close-Hip\" Position."
-msgstr ""
+msgstr "Рис. 14. \"С бедра в четверть оборота\"."
 
 #: ../../source/fount/04-training-advanced.rst:224
 msgid ""
@@ -271,7 +271,7 @@ msgid ""
 "\"half-hip\" is no different from the \"three-quarter,\" and should be "
 "practised at not more than 3 yards. Above that distance it would be more "
 "natural to shoot from the \"three-quarter\" position."
-msgstr ""
+msgstr "Изготовка \"с бедра\" отличается от ранее описанной изготовки \"с бедра в три четверти оборота\" только тем, что вынос оружия вперед уменьшен за счет того, что локоть касается корпуса. Эта изготовка используется на дистанции не более трех ярдов. На большей дистанции естественнее использовать изготовку \"с бедра в три четверти оборота\"."
 
 #: ../../source/fount/04-training-advanced.rst:231
 msgid ""
@@ -281,7 +281,7 @@ msgid ""
 " as would be the case if a dangerous adversary were threatening to strike"
 " or grapple with you. Practice this at 1 yard. This is the only position "
 "in which the hand is not in the centre of the body."
-msgstr ""
+msgstr "Изготовка \"с бедра в четверть оборота\" является сугубо оборонительной; она используется, когда необходимо открыть огонь как можно быстрее и на предельно короткой дистанции, при угрозе физического контакта с противником. Отрабатывать эту изготовку следует на дистанции 1 ярд. Заметим, что это единственная изготовка, когда кисть руки не расположена в плоскости симметрии тела."
 
 #: ../../source/fount/04-training-advanced.rst:240
 msgid ""
@@ -291,7 +291,7 @@ msgid ""
 "advantage of sometimes as much as two seconds over his opponent. The "
 "opponent will want time to recover his wits, and his shooting will not be"
 " as accurate as it might be."
-msgstr ""
+msgstr "Перед тем, как закрыть обсуждение предмета стрельбы на коротких дистанциях, мы хотели бы порекомендовать читателю всегда помнить, что если он успел выстрелить первым, то не только при попадании, но даже в случае близкого промаха, выигрыш по времени относительно противника может достигать двух секунд. Противнику понадобится время для того, чтобы прийти в себя, и даже тогда он будет стрелять хуже, чем мог бы."
 
 #: ../../source/fount/04-training-advanced.rst:249
 msgid ""
