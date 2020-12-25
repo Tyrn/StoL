@@ -109,15 +109,15 @@ msgstr "*1 мая*---"
 
 #: ../../source/fount/09-appendix.rst
 msgid "Withdraw 12,000 issued 1st January"
-msgstr ""
+msgstr "Изъяты 12000 патронов, выданных 1 января"
 
 #: ../../source/fount/09-appendix.rst
 msgid "(for daily issue) and use for"
-msgstr ""
+msgstr "для ношения, и использованы для"
 
 #: ../../source/fount/09-appendix.rst
 msgid "training and practice. Replace for"
-msgstr ""
+msgstr "огневой подготовки."
 
 #: ../../source/fount/09-appendix.rst
 msgid "daily use, by fresh issue of"
@@ -125,7 +125,7 @@ msgstr ""
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "*1st September*---"
-msgstr ""
+msgstr "*1 сентября*---"
 
 #: ../../source/fount/09-appendix.rst
 msgid "Withdraw 12,000 issued 1st May"
@@ -139,37 +139,37 @@ msgstr ""
 msgid ""
 "In twelve months, therefore, 36,000 rounds have been actually expended in"
 " training and practice."
-msgstr ""
+msgstr "Таким образом, в течение двенадцати месяцев на нужды огневой подготовки израсходовано 36000 патронов."
 
 #: ../../source/fount/09-appendix.rst:52
 msgid ""
 "Meanwhile, a second but smaller purchase has been made and is on hand at "
 "the end of December, twelve months after the first purchase arrived, so "
 "that the stock of ammunition is as shown in the next table."
-msgstr ""
+msgstr "Тем временем, делается очередная закупка, меньше первоначальной, с поставкой в конце декабря, через двенадцать месяцев после первоначальной поставки."
 
 #: ../../source/fount/09-appendix.rst:57
 msgid "Table III. Stock at end of First Twelve Months"
-msgstr ""
+msgstr "Таблица III. Запас на конец года"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "In reserve"
-msgstr ""
+msgstr "Резерв"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "In daily use (issued 1st September)"
-msgstr ""
+msgstr "Носимый запас (выдан 1 сентября)"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "Amount of second purchase"
-msgstr ""
+msgstr "Очередная поставка"
 
 #: ../../source/fount/09-appendix.rst:66
 msgid ""
 "We commence the second year with a stock of the same quantity as that "
 "with which we began originally and so  are able to repeat exactly the "
 "processes of the first year."
-msgstr ""
+msgstr "Таким образом, к началу второго года мы подходим с тем же запасом, который образовался в результате первоначальной закупки, и можем в точности повторить годичный цикл, с одним замечанием."
 
 #: ../../source/fount/09-appendix.rst:71
 msgid ""
@@ -180,23 +180,23 @@ msgid ""
 "their place being taken by 12,000 from reserve. The May issue, 12,000, "
 "and half the September issue, 6000, completely exhausted the 30,000 "
 "originally placed to reserve."
-msgstr ""
+msgstr "Патроны из очередной поставки используются только по израсходовании патронов из предыдущей поставки. Когда 1 января текущего года изымается, для использования при огневой подготовке, носимый запас, выданный в предыдущем сентябре, недостающие 12000 патронов берутся из резерва. В мае из резерва выдаются в качестве носимого запаса еще 12000 патронов, а в сентябре половина этого количества, 6000 патронов; таким образом, первоначальный резерв 30000 патронов полностью исчерпывается."
 
 #: ../../source/fount/09-appendix.rst:82
 msgid "Our two basic conditions are therefore fulfilled, *i.e.*:"
-msgstr ""
+msgstr "Такой порядок позволяет выполнить два основных условия:"
 
 #: ../../source/fount/09-appendix.rst:84
 msgid "No ammunition in daily use longer than four months."
-msgstr ""
+msgstr "Патроны находятся в магазинах и барабанах не более четырех месяцев."
 
 #: ../../source/fount/09-appendix.rst:86
 msgid "No ammunition in stock longer than two years."
-msgstr ""
+msgstr "Патроны хранятся на складе не более двух лет."
 
 #: ../../source/fount/09-appendix.rst:88
 msgid ""
 "As long as the programme is adhered to, the processes outlined are merely"
 " a matter of repetition year after year."
-msgstr ""
+msgstr "Успешная реализация нашего подхода сводится к простому повторению одной и той же процедуры каждый год."
 
