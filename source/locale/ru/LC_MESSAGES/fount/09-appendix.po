@@ -116,11 +116,11 @@ msgstr "для ношения, и использованы для"
 
 #: ../../source/fount/09-appendix.rst
 msgid "training and practice. Replace for"
-msgstr "огневой подготовки."
+msgstr "огневой подготовки. С целью замены,"
 
 #: ../../source/fount/09-appendix.rst
 msgid "daily use, by fresh issue of"
-msgstr "Для ношения, вновь выдано"
+msgstr "для ношения вновь выдано"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "*1st September*---"
@@ -132,7 +132,7 @@ msgstr "Изъяты 12000 патронов, выданных 1 мая"
 
 #: ../../source/fount/09-appendix.rst
 msgid "(for daily use) and use for"
-msgstr "Для ношения, вновь выдано"
+msgstr "для ношения, и использованы для"
 
 #: ../../source/fount/09-appendix.rst:49
 msgid ""
