@@ -46,13 +46,13 @@ i18n
 
 `sphinx-intl <https://www.sphinx-doc.org/en/master/usage/advanced/intl.html>`__
 
-Make *.pot files (just once, at the start of the i18n):
+Make `*.pot` files (just once, at the start of the i18n):
 
 ::
 
     $ make gettext
 
-Generate *.po files (just once):
+Generate `*.po` files (just once):
 
 ::
 

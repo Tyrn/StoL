@@ -37,8 +37,7 @@ msgstr "Цифры, приведенные в таблице I, получены
 
 #: ../../source/fount/09-appendix.rst:15
 msgid "Table I. Requirements over Twelve Months"
-msgstr "Таблица I. Потребность на двенадцать месяцев
-В"
+msgstr "Таблица I. Потребность на двенадцать месяцев"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "Rounds"
@@ -121,7 +120,7 @@ msgstr "огневой подготовки."
 
 #: ../../source/fount/09-appendix.rst
 msgid "daily use, by fresh issue of"
-msgstr ""
+msgstr "Для ношения, вновь выдано"
 
 #: ../../source/fount/09-appendix.rst:1
 msgid "*1st September*---"
@@ -129,11 +128,11 @@ msgstr "*1 сентября*---"
 
 #: ../../source/fount/09-appendix.rst
 msgid "Withdraw 12,000 issued 1st May"
-msgstr ""
+msgstr "Изъяты 12000 патронов, выданных 1 мая"
 
 #: ../../source/fount/09-appendix.rst
 msgid "(for daily use) and use for"
-msgstr ""
+msgstr "Для ношения, вновь выдано"
 
 #: ../../source/fount/09-appendix.rst:49
 msgid ""

@@ -28,7 +28,7 @@ msgstr "СТРЕЛЯЕМ, ЧТОБЫ ВЫЖИТЬ"
 
 #: ../../source/fount/000-title.rst:6
 msgid "*by*"
-msgstr "_"
+msgstr "⬜"
 
 #: ../../source/fount/000-title.rst:8
 msgid ""
@@ -38,7 +38,7 @@ msgstr "**Капитан Уильям Эварт Фэрберн**, замест�
 
 #: ../../source/fount/000-title.rst:11
 msgid "*and*"
-msgstr "_"
+msgstr "⬜"
 
 #: ../../source/fount/000-title.rst:13
 msgid ""
