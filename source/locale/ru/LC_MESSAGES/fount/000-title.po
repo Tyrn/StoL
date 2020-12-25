@@ -24,7 +24,7 @@ msgstr "📖"
 
 #: ../../source/fount/000-title.rst:4
 msgid "**SHOOTING TO LIVE WITH THE ONE-HAND GUN**"
-msgstr "СТРЕЛЯЕМ, ЧТОБЫ ВЫЖИТЬ"
+msgstr "**СТРЕЛЯЕМ, ЧТОБЫ ВЫЖИТЬ**"
 
 #: ../../source/fount/000-title.rst:6
 msgid "*by*"
