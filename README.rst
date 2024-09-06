@@ -1,6 +1,8 @@
 F&S Book
 ********
 
+`Sphinx multilanguage example <https://github.com/ThoSe1990/SphinxExample>`__
+
 Sphinx assets
 ==============
 
